@@ -2,8 +2,8 @@
 
 Find Sodium on [Modrinth](https://modrinth.com/mod/sodium).
 
-> [!NOTE] From Modrinth
-> *The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!*
+> [!NOTE]
+> From Modrinth: *The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!*
 
 Sodium is used for an arguably free FPS boost for all clients.
 
