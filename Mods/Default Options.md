@@ -2,8 +2,8 @@
 
 Find Default Options on [Modrinth](https://modrinth.com/mod/default-options).
 
-> [!NOTE] From Modrinth
-> *A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file.*
+> [!NOTE]
+> From Modrinth: *A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file.*
 
 We leverage Default Options to configure new defaults for conflicting keybinds, optimized mod configs, and a default server list.
 

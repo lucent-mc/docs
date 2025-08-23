@@ -44,8 +44,8 @@ let mod_licenseurl = await tp.system.prompt("URL to License")
 
 Find <% mod_name %> on [Modrinth](<% mod_url %>).
 
-> [!NOTE] From Modrinth
-> *<% mod_summary %>*
+> [!NOTE]
+> From Modrinth: *<% mod_summary %>*
 
 We use <% mod_name %> to <% tp.file.cursor() %>.
 
