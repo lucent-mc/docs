@@ -23,4 +23,4 @@ Follow development by following the github, starring the repositories, or joinin
 
 You might also want to try out the pack on our community server `lucent.mia.cx` (this address may change).
 
-<!-- $VERSION = VERSION; git flow release start $VERSION; git flow release finish $VERSION -m "v$VERSION"; git push --all -->
+<!-- $VERSION = "VERSION"; git flow release start $VERSION; git flow release finish $VERSION -m "v$VERSION"; git push --all -->
