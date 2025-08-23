@@ -4,7 +4,7 @@ Below you will find a list of all Mods included with Lucent Optimizations.
 
 ## Mods
 
-- [[Default Options]]
+- [[Default-Options]]
 - [[Lithium]]
 - [[Sodium]]
 

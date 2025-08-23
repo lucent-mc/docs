@@ -6,7 +6,7 @@ We leverage popular optimization mods with our own configs to set ourselves up f
 
 ## List of Mods (abridged)
 
-Find a comprehensive list of mods included with Lucent Optimizations [[Lucent Optimizations - Mods|here]].
+Find a comprehensive list of mods included with Lucent Optimizations [[Lucent-Optimizations---Mods|here]].
 
 - [[Sodium]]
 - [[Lithium]]
