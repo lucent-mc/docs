@@ -1,3 +1,9 @@
+---
+title: Default Options
+created_at: 2025-08-23T11:58:33+02:00
+modified_at: 2025-10-03T06:50:00+02:00
+---
+
 # Default Options
 
 Find Default Options on [Modrinth](https://modrinth.com/mod/default-options).
@@ -18,9 +24,10 @@ We leverage Default Options to configure new defaults for conflicting keybinds, 
 
 When saving any of the defaults with the commands above, the relevant files are placed inside `/config/defaultoptions`
 
-### `extra/` directory
+### `extra/` Directory
 
 Inside `/config/defaultoptions` you can also include other default files inside the `extra/` directory.
+
 The `extra/` directory is equivalent to the instance root, which means to include other mod configs, you will have to place them inside `/config/defaultoptions/extra/config/`
 
 ## License

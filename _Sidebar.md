@@ -1,20 +1,28 @@
-### Home
+---
+title: _Sidebar
+created_at: 2025-08-23T11:49:09+02:00
+modified_at: 2025-10-03T06:50:00+02:00
+---
+
+# _Sidebar
+
+## Home
 
 - [[Home]]
 
 ---
 
-### Mod packs
+## Mod packs
 
 - [[Lucent Optimizations]]
 
 ---
 
-### Documentation
+## Documentation
 
 ---
 
-### Useful links
+## Useful links
 
 - [Support](https://github.com/lucent-mc/lucent-adventures/issues)
 - Forum
