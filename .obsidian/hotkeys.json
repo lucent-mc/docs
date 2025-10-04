@@ -15,5 +15,13 @@
       ],
       "key": "S"
     }
+  ],
+  "alpha-bullet:ascending": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }

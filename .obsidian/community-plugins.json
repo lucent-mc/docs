@@ -3,5 +3,7 @@
   "obsidian-linter",
   "dataview",
   "obsidian-git",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-outliner",
+  "alpha-bullet"
 ]
