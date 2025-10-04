@@ -16,6 +16,8 @@ Welcome to the Lucent Adventures wiki! In this wiki you will find information ab
 
 On the right, there is a sidebar with navigation items for the most important pages on this wiki. If you're struggling to find something, try the search bar in the "Pages" section.
 
+This wiki will eventually move to a dedicated website either on [Obsidian Publish](https://obsidian.md/publish) or [Quartz](https://github.com/jackyzha0/quartz) to support useful extra features like callouts and frontmatter. Please bare with us and ignore the wrongly formatted frontmatter at the top of all pages.
+
 Don't know where to start? Give [[Lucent Adventures|this page]] a shot!
 
 Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [[Sinytra Connector]] and [[Forgified Fabric API]] mods.
