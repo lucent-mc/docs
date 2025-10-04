@@ -10,14 +10,17 @@ Below you will find a list of all Mods included with Lucent Optimizations.
 
 ## Mods
 
-- [[Default Options]]
-- [[Lithium]]
-- [[Sodium]]
+- [Configured Defaults](Configured%20Defaults.md)
+- [Entity Culling](Entity%20Culling.md)
+- [FerriteCore](FerriteCore.md)
+- [Lithium](Lithium.md)
+- [Sodium](Sodium.md)
 
 ### Library Mods
 
-- [[Forgified Fabric API]]
-- [[Sinytra Connector]]
+- [Connector Extras](Connector%20Extras.md)
+- [Forgified Fabric API](Forgified%20Fabric%20API.md)
+- [Sinytra Connector](Sinytra%20Connector.md)
 
 ## Resource Packs
 

@@ -11,6 +11,13 @@ This page contains a list of Mods that we want to look into and possibly add to 
 ## Mods
 
 - [ ] Supplementaries
+- [ ] CarryOn
+- [ ] Create
+	- [ ] Create Addons
+- [ ] AE2 (look at for create conflicts & balancing)
+- [ ] sophisticated backpacks
+- [ ] Antique Atlas
+- [ ] Antique Trains
 
 ### Lucent Optimizations
 
