@@ -17,6 +17,7 @@ supported_versions:
 tags:
   - mod
   - neoforge
+  - optimizations
 ---
 
 # Configured Defaults

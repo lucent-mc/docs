@@ -17,6 +17,7 @@ tags:
   - library
   - mod
   - neoforge
+  - optimizations
 ---
 
 # Sinytra Connector

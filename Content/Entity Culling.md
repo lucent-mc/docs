@@ -20,6 +20,7 @@ supported_versions:
 tags:
   - mod
   - neoforge
+  - optimizations
 ---
 
 # Entity Culling

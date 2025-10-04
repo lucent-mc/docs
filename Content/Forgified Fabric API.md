@@ -15,6 +15,7 @@ tags:
   - library
   - mod
   - neoforge
+  - optimizations
 ---
 
 # Forgified Fabric API

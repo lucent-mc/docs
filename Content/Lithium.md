@@ -21,6 +21,7 @@ supported_versions:
 tags:
   - mod
   - neoforge
+  - optimizations
 ---
 
 # Lithium

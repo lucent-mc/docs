@@ -20,7 +20,8 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [x] [Connector Extras](Connector%20Extras.md)
 - [x] [Sodium](Sodium.md)
 - [x] [Lithium](Lithium.md)
-- [ ] [Entity Culling](Entity%20Culling.md)
+- [x] [Entity Culling](Entity%20Culling.md)
+- [x] [FerriteCore](FerriteCore.md)
 
 ### Lucent Visuals
 
