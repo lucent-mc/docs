@@ -65,7 +65,7 @@ Rough "real life" benchmarks are done on a single player world with
 - FOV at Quake Pro
 - run `/tp @s 0 500 0 0 90` (looking straight down, entire render distance in view).
 
-Went from 362 FPS average[^1] to 365 FPS average
+Went from 362 FPS average[^1] to 365 FPS average ^b5508d
 
 ## Usage
 
