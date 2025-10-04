@@ -26,5 +26,5 @@ modified_at: 2025-10-03T06:50:00+02:00
 
 - [Support](https://github.com/lucent-mc/lucent-adventures/issues)
 - Forum
-- Discord
-- Modrinth
+- [Discord](https://discord.gg/bePPwYJk2u)
+- [Modrinth](https://modrinth.com/organization/lucent)
