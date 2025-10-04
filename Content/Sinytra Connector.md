@@ -1,23 +1,31 @@
 ---
 title: Sinytra Connector
+author: Sinytra
 summary: Run your favourite Fabric mods on NeoForge
 url: https://modrinth.com/mod/connector
 created_at: 2025-10-03T08:05:15+02:00
-modified_at: 2025-10-03T08:11:08+02:00
+modified_at: 2025-10-04T13:14:01+02:00
 license: MIT
 license_url: https://github.com/Sinytra/Connector/blob/master/LICENSE
 supported_versions:
-  - "1.21.1"
+  - 1.21.1
   - "1.21"
 depends_on:
   - "[[Forgified Fabric API]]"
+tags:
+  - fabric
+  - library
+  - mod
+  - neoforge
 ---
 
 # Sinytra Connector
 
+> by Sinytra
+
 Find Sinytra Connector on [Modrinth](https://modrinth.com/mod/connector).
 
-> [!INFO]+ Summary
+> [!INFO]+ Summary  
 > From Modrinth: *Run your favourite Fabric mods on NeoForge*
 
 We use Sinytra Connector to allow for the use of Fabric mods on NeoForge
@@ -30,11 +38,11 @@ How to use Sinytra Connector for the relevant mod pack.
 
 ### Dependencies
 
-- [[Forgified Fabric API]]
+- [Forgified Fabric API](Forgified%20Fabric%20API.md)
 
-### Dependants
+### Dependents
 
-- [[Connector Extras]]
+- [Connector Extras](Connector%20Extras.md)
 
 ## License
 
