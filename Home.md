@@ -1,7 +1,7 @@
 ---
 title: Home
 created_at: 2025-08-23T12:01:57+02:00
-modified_at: 2025-10-03T06:50:00+02:00
+modified_at: 2025-10-04T09:15:46+02:00
 ---
 
 # Home
@@ -20,21 +20,26 @@ Don't know where to start? Give [[Lucent Adventures|this page]] a shot!
 
 Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [[Sinytra Connector]] and [[Forgified Fabric API]] mods.
 
-> [!NOTE]- Performance comparison
+> [!NOTE]- Performance comparison  
 > In the same world at the same settings, NeoForge + Sodium + Lithium performs identical to Fabric + Sodium + Lithium.
+
+Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on 1.21.1 for the time being, we will target 1.21.1. You can optionally install [ViaVersion](https://modrinth.com/plugin/viaversion) and/or [ViaBackwards](https://modrinth.com/plugin/viabackwards) to play on older or newer servers. 
 
 ## Mod Packs
 
-- [[Lucent Optimizations]] - Improved performance without altering the game.
-- [[Lucent Vanilla]] - Client-side tweaks, sounds and visuals. Vanilla-compatible.
-- [[Lucent Improvements]] - Quality of Life improvements without adding too much content.
+- [[Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
+- [[Lucent Visuals]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
+- [[Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
+- [[Lucent Improvements]]
 - [[Lucent Additions]] - Introduces more structures, blocks, decorations, and more.
 - [[Lucent Adventures]] - Improved world generation. Additional environment, structures, dimensions. Slows gameplay loop with a progression system, skill tree, RPG Classes.
+
+All of the aforementioned mod packs are also available as "collections" on [Modrinth](https://modrinth.com/user/lucent-adventures/collections), containing only the mods unique to each mod pack.
 
 ## Join us
 
 Follow development by following the github, starring the repositories, or joining us on [Discord](https://discord.gg/bePPwYJk2u).
 
-You might also want to try out the pack on our community server `lucent.mia.cx` (this address may change).
+<!-- You might also want to try out the pack on our community server `lucent.mia.cx` (this address may change). -->
 
 <!-- $VERSION = "VERSION"; git flow release start $VERSION; git flow release finish $VERSION -m "v$VERSION"; git push --all -->
