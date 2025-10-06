@@ -62,11 +62,13 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        depth: 2,
+        depth: 1,
+        enableRadial: false
       },
       globalGraph: {
         repelForce: 1.0,
         linkDistance: 15,
+        enableRadial: false
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
@@ -99,11 +101,13 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        depth: 2,
+        depth: 1,
+        enableRadial: false
       },
       globalGraph: {
         repelForce: 1.0,
         linkDistance: 15,
+        enableRadial: false
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
