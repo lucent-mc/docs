@@ -5,7 +5,7 @@ description: Using async path-tracing to hide Block-/Entities that are not visib
 url: https://modrinth.com/mod/entityculling
 type: mod
 created_at: 2025-10-04T12:11:02+02:00
-modified_at: 2025-10-06T07:45:46+02:00
+modified_at: 2025-10-06T07:54:21+02:00
 license: Other
 license_url: https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling
 supported_versions:
@@ -77,7 +77,4 @@ Entity Culling runs without any user interaction.
 
 Entity Culling is licensed under Other. Read the license [here](https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling).
 
-#mod  
-#optimizations
-
-[^1]: [Lithium - 362 FPS average](Lithium.md#^f93b56)
+[^1]: [Lithium - 362 FPS average](Lithium#^f93b56)

@@ -34,14 +34,14 @@ This page contains a list of Mods that we want to look into and possibly add to 
 
 ### Lucent Optimizations
 
-- [x] [Configured Defaults](Configured%20Defaults.md)
-- [x] [Connector Extras](Connector%20Extras.md)
-- [x] [Entity Culling](Entity%20Culling.md)
-- [x] [FerriteCore](FerriteCore.md)
-- [x] [Forgified Fabric API](Forgified%20Fabric%20API.md)
-- [x] [Lithium](Lithium.md)
-- [x] [Sinytra Connector](Sinytra%20Connector.md)
-- [x] [Sodium](Sodium.md)
+- [x] [[Configured Defaults]]
+- [x] [[Connector Extras]]
+- [x] [[Entity Culling]]
+- [x] [[FerriteCore]]
+- [x] [[Forgified Fabric API]]
+- [x] [[Lithium]]
+- [x] [[Sinytra Connector]]
+- [x] [[Sodium]]
 
 ### Lucent Visuals
 

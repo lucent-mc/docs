@@ -40,15 +40,12 @@ How to use Sinytra Connector for the relevant mod pack.
 
 ### Dependencies
 
-- [Forgified Fabric API](Forgified%20Fabric%20API.md)
+- [[Forgified Fabric API]]
 
 ### Dependents
 
-- [Connector Extras](Connector%20Extras.md)
+- [[Connector Extras]]
 
 ## License
 
 Sinytra Connector is licensed under MIT. Read the license [here](https://github.com/Sinytra/Connector/blob/master/LICENSE).
-
-#mod  
-#optimizations

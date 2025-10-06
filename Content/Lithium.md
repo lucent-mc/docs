@@ -50,7 +50,7 @@ Rough "real life" benchmarks are done on a single player world with
 - FOV at Quake Pro
 - run `/tp @s 0 500 0 0 90` (looking straight down, entire render distance in view).
 
-Lithium was tested in combination with [Sodium](Sodium.md), to prevent the renderer from being bottleneck.
+Lithium was tested in combination with [[Sodium]], to prevent the renderer from being bottleneck.
 
 Improvements were marginal but real.
 
@@ -75,6 +75,3 @@ Lithium's defaults are sufficient so we provide no config overrides.
 ## License
 
 Lithium is licensed under LGPL-3.0-only. Read the license [here](https://modrinth.com/mod/lithium).
-
-#mod  
-#optimizations

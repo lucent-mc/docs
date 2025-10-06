@@ -40,19 +40,16 @@ How to use Connector Extras for the relevant mod pack.
 
 ### Dependencies
 
-- [Sinytra Connector](Sinytra%20Connector.md)
-- (Optional) [Roughly Enough Items](Roughly%20Enough%20Items)
-- (Optional) [Architectury API](Architectury%20API)
-- (Optional) [TerraBlender](TerraBlender)
-- (Optional) [Pehkui](Pehkui)
-- (Optional) [KubeJS](KubeJS)
-- (Optional) [Geckolib](Geckolib)
-- (Optional) [Just Enough Items](Just%20Enough%20Items)
-- (Optional) [EMI](EMI)
+- [[Sinytra Connector]]
+- (Optional) [[Roughly Enough Items]]
+- (Optional) [[Architectury API]]
+- (Optional) [[TerraBlender]]
+- (Optional) [[Pehkui]]
+- (Optional) [[KubeJS]]
+- (Optional) [[Geckolib]]
+- (Optional) [[Just Enough Items]]
+- (Optional) [[EMI]]
 
 ## License
 
 Connector Extras is licensed under MIT. Read the license [here](https://github.com/Sinytra/ConnectorExtras/blob/master/LICENSE).
-
-#mod  
-#optimizations

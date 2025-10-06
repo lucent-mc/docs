@@ -65,8 +65,5 @@ FerriteCore's defaults are sufficient so we provide no config overrides.
 
 FerriteCore is licensed under MIT. Read the license [here](https://modrinth.com/mod/ferrite-core/version/8.0.1-neoforge).
 
-#mod  
-#optimizations
-
-[^1]: [Entity Culling - 365 FPS average](Entity%20Culling.md#^b5508d)
-[^2]: [After](Lithium.md#After)
+[^1]: [Entity Culling - 365 FPS average](Entity%20Culling#^b5508d)
+[^2]: [Lithium: After](Lithium#After)

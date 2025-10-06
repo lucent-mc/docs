@@ -12,9 +12,9 @@ We leverage popular optimization mods with our own configs to set ourselves up f
 
 ## List of Mods (abridged)
 
-Find a comprehensive list of mods included with Lucent Optimizations [here](Lucent%20Optimizations%20-%20Mods.md).
+Find a comprehensive list of mods included with Lucent Optimizations [here](Lucent%20Optimizations%20-%20Mods).
 
-- [Entity Culling](Entity%20Culling.md)
-- [FerriteCore](FerriteCore.md)
-- [Lithium](Lithium.md)
-- [Sodium](Sodium.md)
+- [[Entity Culling]]
+- [[FerriteCore]]
+- [[Lithium]]
+- [[Sodium]]

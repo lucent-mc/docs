@@ -39,6 +39,3 @@ Configured Defaults is configured through adding config files to the `configured
 ## License
 
 Configured Defaults is licensed under MPL-2.0. Read the license [here](https://modrinth.com/mod/configured-defaults).
-
-#mod  
-#optimizations
