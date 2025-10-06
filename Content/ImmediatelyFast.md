@@ -1,11 +1,11 @@
 ---
 title: ImmediatelyFast
-author: RaphiMC
+authors: RaphiMC
 description: Speed up immediate mode rendering in Minecraft
 url: https://modrinth.com/mod/immediatelyfast
 type: mod
 created_at: 2025-10-05T03:21:24+02:00
-modified_at: 2025-10-06T06:54:13+02:00
+modified_at: 2025-10-06T07:45:46+02:00
 license: LGPL-3.0-only
 license_url: https://modrinth.com/mod/immediatelyfast
 supported_versions:
@@ -47,3 +47,6 @@ ImmediatelyFast's defaults are sufficient so we provide no config overrides.
 ## License
 
 ImmediatelyFast is licensed under LGPL-3.0-only. Read the license [here](https://modrinth.com/mod/immediatelyfast).
+
+#mod  
+#optimizations

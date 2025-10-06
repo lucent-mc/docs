@@ -1,11 +1,11 @@
 ---
 title: Lithium
-author: jellysquid3
+authors: jellysquid3
 description: No-compromises game logic optimization mod. Well suited for clients and servers of all kinds. Now available for Fabric and NeoForge!
 url: https://modrinth.com/mod/lithium
 type: mod
 created_at: 2025-10-04T12:51:31+02:00
-modified_at: 2025-10-06T06:54:13+02:00
+modified_at: 2025-10-06T07:45:46+02:00
 license: LGPL-3.0-only
 license_url: https://modrinth.com/mod/lithium
 supported_versions:
@@ -75,3 +75,6 @@ Lithium's defaults are sufficient so we provide no config overrides.
 ## License
 
 Lithium is licensed under LGPL-3.0-only. Read the license [here](https://modrinth.com/mod/lithium).
+
+#mod  
+#optimizations

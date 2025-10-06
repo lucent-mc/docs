@@ -1,7 +1,8 @@
 ---
 title: Mod Template
+authors: mia-riezebos
 created_at: 2025-08-23T11:58:33+02:00
-modified_at: 2025-10-06T06:53:58+02:00
+modified_at: 2025-10-06T07:45:45+02:00
 ---
 
 # Mod Template
@@ -28,7 +29,15 @@ let license_types = ['ARR', 'CC', 'GPL', 'AGPL', 'LGPL', 'Apache', 'Polyform', '
 
 // Define different licenses' variants  
 let license_arr = ['All Rights Reserved'];  
-let license_cc = ['CC BY', 'CC BY-SA', 'CC BY-NC', 'CC BY-NC-SA', 'CC BY-ND', 'CC BY-NC-ND', 'CC0'];  
+let license_cc = [  
+	'CC BY 4.0',  
+	'CC BY-SA 4.0',  
+	'CC BY-NC 4.0',  
+	'CC BY-NC-SA 4.0',  
+	'CC BY-ND 4.0',  
+	'CC BY-NC-ND 4.0',  
+	'CC0 1.0',  
+];  
 let license_gpl = [  
 	'GPL-3.0-or-later',  
 	'GPL-3.0-only',  
@@ -111,6 +120,9 @@ let mod_versions = await tp.system.multi_suggester(
 	false,  
 	'Which Minecraft versions does this mod work on?',  
 );
+
+// Ask the user to specify which of the Lucent mod packs this mod is used in.  
+// TODO
 
 // Ask the user to specify how the mod is used in the mod pack  
 let mod_use_case = await tp.system.prompt('How is this mod used in the mod pack?');

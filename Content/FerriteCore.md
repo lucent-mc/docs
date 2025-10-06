@@ -1,11 +1,11 @@
 ---
 title: FerriteCore
-author: malte0811
+authors: malte0811
 description: Memory usage optimizations
 url: https://modrinth.com/mod/ferrite-core
 type: mod
 created_at: 2025-10-04T13:49:33+02:00
-modified_at: 2025-10-06T06:54:13+02:00
+modified_at: 2025-10-06T07:45:46+02:00
 license: MIT
 license_url: https://modrinth.com/mod/ferrite-core/version/8.0.1-neoforge
 supported_versions:
@@ -64,6 +64,9 @@ FerriteCore's defaults are sufficient so we provide no config overrides.
 ## License
 
 FerriteCore is licensed under MIT. Read the license [here](https://modrinth.com/mod/ferrite-core/version/8.0.1-neoforge).
+
+#mod  
+#optimizations
 
 [^1]: [Entity Culling - 365 FPS average](Entity%20Culling.md#^b5508d)
 [^2]: [After](Lithium.md#After)

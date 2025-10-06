@@ -1,14 +1,14 @@
 ---
 title: Research & Development
+authors:
+  - mia-riezebos
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created_at: 2025-10-04T04:33:20+02:00
-modified_at: 2025-10-06T07:42:03+02:00
+modified_at: 2025-10-06T07:45:45+02:00
 license:
-  - CC-BY-SA 4.0
   - CC BY-SA 4.0
-authors:
-  - mia-riezebos
+  - CC-BY-SA 4.0
 tags:
   - mod
   - optimizations
