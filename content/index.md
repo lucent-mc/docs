@@ -16,9 +16,9 @@ Get immersed in a beautiful world of flora and fauna. Explore, improve, and chal
 
 ---
 
-Welcome to the Lucent Adventures wiki! In this wiki you will find information about all Lucent mod packs, as well as documentation about how each mod is used in the mod pack.
+Welcome to the Lucent Adventures wiki! In this wiki you will find information about each individual Lucent mod pack, as well as documentation about how each mod is used in said pack.
 
-On the left, there is a sidebar with an explorer to find pages on this wiki. If you're struggling to find something, try the search bar at the top.
+On the left, there is a sidebar with an explorer to find pages on this wiki. If you're struggling to find something, try the search bar at the top!
 
 Don't know where to start? Give [Lucent Optimizations](Packs/Lucent%20Optimizations/index.md) a shot!
 
