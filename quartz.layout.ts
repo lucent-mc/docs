@@ -62,7 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        depth: 3,
+        depth: 2,
       },
       globalGraph: {
         repelForce: 1.0,
@@ -99,7 +99,7 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        depth: 3,
+        depth: 2,
       },
       globalGraph: {
         repelForce: 1.0,
