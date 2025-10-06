@@ -7,7 +7,7 @@ created: 2025-08-23T12:01:57+02:00
 modified: 2025-10-06T11:44:17+02:00
 license: CC-BY-SA 4.0
 license_url:
-icon: ri:moon-fill
+icon: streamline-pixel:weather-cresent-moon-stars
 ---
 
 _Fortune favors the adventurous_
@@ -32,7 +32,7 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 ## Mod Packs
 
 - [index](Packs/Lucent%20Optimizations/index.md) - Improved performance & bug fixes without altering the gameplay.
-- [Lucent Visuals](Lucent%20Visuals) - Client-side tweaks, sounds and visuals. Vanilla gameplay.
+- [index](Packs/Lucent%20Visuals/index.md) - Client-side tweaks, sounds and visuals. Vanilla gameplay.
 - [Lucent Vanilla](Lucent%20Vanilla) - Quality of Life improvements without changing the core. Vanilla-compatible.
 - [Lucent Improvements](Lucent%20Improvements)
 - [Lucent Additions](Lucent%20Additions) - Introduces more structures, blocks, decorations, and more.

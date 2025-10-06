@@ -1,6 +1,7 @@
 ---
 title: Lucent Visuals
 authors:
+  - mia-riezebos
 description:
 type:
 created: 2025-10-06T08:03:05+02:00

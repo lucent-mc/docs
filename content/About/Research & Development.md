@@ -10,7 +10,7 @@ license:
   - CC BY-SA 4.0
   - CC-BY-SA 4.0
 license_url:
-icon: healthicons:integrated-data-and-research-24px
+icon: streamline-pixel:search-coding
 tags:
   - mod
   - optimizations
