@@ -9,7 +9,7 @@ license: CC BY-SA 4.0
 license_url:
 ---
 
-The Lucent project was borne out of a desire for range. In my endless search for mods and mod packs that fit my desires in different play styles, I noticed a lot of packs are either incredibly barebones, vanilla+ or all-in kitchen sink, with no real in-between. 
+The Lucent project was borne out of a desire for range, depth, and choice. In my endless search for mods and mod packs that fit my desires in different play styles, I noticed a lot of packs are either incredibly barebones, vanilla+ or all-in kitchen sink, with no real in-between. 
 
 ## The Concept
 
