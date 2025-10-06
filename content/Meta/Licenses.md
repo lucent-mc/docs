@@ -1,7 +1,6 @@
 ---
 title: Licenses
 authors:
-  - lucent-mc
   - mia-riezebos
 description: This note contains information about different licenses that are commonly used on Modrinth.
 type: meta

@@ -1,5 +1,5 @@
 ---
-title: Lucent Optimizations - List of all Mods
+title: Lucent Optimizations - Mods
 authors:
 description:
 type:
