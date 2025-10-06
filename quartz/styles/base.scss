@@ -426,10 +426,11 @@ h4,
 h5,
 h6 {
   iconify-icon {
-    vertical-align: middle;
+    // vertical-align: middle;
+    alignment-baseline: middle;
     display: inline-block;
     width: 1em;
-    height: 1em;
+    height: 1lh;
     margin-right: 0.25em;
   }
 }
