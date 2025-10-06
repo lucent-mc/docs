@@ -5,10 +5,11 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-06T11:20:57+02:00
+modified: 2025-10-06T11:32:09+02:00
 license:
   - CC BY-SA 4.0
   - CC-BY-SA 4.0
+license_url:
 tags:
   - mod
   - optimizations

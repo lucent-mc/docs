@@ -1,7 +1,12 @@
 ---
 title: Lucent Optimizations - List of all Mods
+authors:
+description:
+type:
 created: 2025-08-23T11:54:27+02:00
-modified: 2025-10-06T11:17:07+02:00
+modified: 2025-10-06T11:32:09+02:00
+license:
+license_url:
 ---
 
 Below you will find a list of all Mods included with Lucent Optimizations. 

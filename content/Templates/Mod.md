@@ -1,8 +1,12 @@
 ---
 title: Mod
 authors: mia-riezebos
+description:
+type:
 created: 2025-08-23T11:58:33+02:00
-modified: 2025-10-06T11:18:57+02:00
+modified: 2025-10-06T11:32:09+02:00
+license:
+license_url:
 ---
 
 This is an Obsidian Templater template file that can be used to quickly add a mod to the `Mods/` folder.

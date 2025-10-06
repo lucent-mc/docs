@@ -1,10 +1,12 @@
 ---
 title: Frequently asked Questions
 authors: mia-riezebos
+description:
 type: page
 created: 2025-10-06T07:01:36+02:00
-modified: 2025-10-06T11:20:59+02:00
+modified: 2025-10-06T11:32:09+02:00
 license: CC BY-SA 4.0
+license_url:
 ---
 
 On this page you will find a list of answers to frequently asked questions. Please check this page before opening a Support Request on our Issues pages.

@@ -1,7 +1,12 @@
 ---
 title: Lucent Optimizations
+authors:
+description:
+type:
 created: 2025-08-23T11:54:27+02:00
-modified: 2025-10-06T11:17:13+02:00
+modified: 2025-10-06T11:32:09+02:00
+license:
+license_url:
 ---
 
 Lucent Optimizations is the base of all Lucent mod packs, in charge of optimizing the game, enabling us to load the game up with flavourful mods and resources.
