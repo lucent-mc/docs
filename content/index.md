@@ -20,7 +20,7 @@ Welcome to the Lucent Adventures wiki! In this wiki you will find information ab
 
 On the left, there is a sidebar with an explorer to find pages on this wiki. If you're struggling to find something, try the search bar at the top.
 
-Don't know where to start? Give [this page](Packs/Lucent%20Optimizations/index.md) a shot!
+Don't know where to start? Give [Lucent Optimizations](Packs/Lucent%20Optimizations/index.md) a shot!
 
 Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [[Sinytra Connector]] and [[Forgified Fabric API]] mods.
 
@@ -30,6 +30,8 @@ Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [
 Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on 1.21.1 for the time being, we will target 1.21.1. You can optionally install [ViaVersion](https://modrinth.com/plugin/viaversion) and/or [ViaBackwards](https://modrinth.com/plugin/viabackwards) to play on older or newer servers. 
 
 ## Mod Packs
+
+![Packs](Packs/index.md)
 
 - [Lucent Optimizations](Packs/Lucent%20Optimizations/index.md) - Improved performance & bug fixes without altering the gameplay.
 - [Lucent Visuals](Packs/Lucent%20Visuals/index.md) - Client-side tweaks, sounds and visuals. Vanilla gameplay.
