@@ -1,11 +1,11 @@
 ---
-title: Spark
+title: spark
 authors: lucko
 description: spark is a performance profiler for Minecraft clients, servers and proxies.
 url: https://modrinth.com/mod/spark/version/1.10.145-neoforge
 type: mod
 created: 2025-10-04T15:42:36+02:00
-modified: 2025-10-06T07:55:46+02:00
+modified: 2025-10-06T11:18:25+02:00
 license: GPL-3.0-only
 license_url: https://github.com/lucko/spark/blob/master/LICENSE.txt
 supported_versions:
@@ -24,14 +24,13 @@ tags:
   - optimizations
 ---
 
-# Spark
+ _spark is a performance profiler for Minecraft clients, servers and proxies._
 
 > by lucko
 
 Find spark on [Modrinth](https://modrinth.com/mod/spark/version/1.10.145-neoforge).
 
-> [!INFO]+ Summary  
-> From Modrinth: _spark is a performance profiler for Minecraft clients, servers and proxies._
+---
 
 We use spark to measure performance to ensure quality.
 

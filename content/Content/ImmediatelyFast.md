@@ -5,7 +5,7 @@ description: Speed up immediate mode rendering in Minecraft
 url: https://modrinth.com/mod/immediatelyfast
 type: mod
 created: 2025-10-05T03:21:24+02:00
-modified: 2025-10-06T07:55:22+02:00
+modified: 2025-10-06T11:19:39+02:00
 license: LGPL-3.0-only
 license_url: https://modrinth.com/mod/immediatelyfast
 supported_versions:
@@ -25,14 +25,13 @@ tags:
   - optimizations
 ---
 
-# ImmediatelyFast
+_Speed up immediate mode rendering in Minecraft_
 
 > by RaphiMC
 
 Find ImmediatelyFast on [Modrinth](https://modrinth.com/mod/immediatelyfast/versions).
 
-> [!INFO]+ Summary  
-> From Modrinth: _Speed up immediate mode rendering in Minecraft_
+---
 
 We use ImmediatelyFast to improve the immediate mode rendering performance of the client.
 

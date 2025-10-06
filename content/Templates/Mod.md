@@ -1,11 +1,9 @@
 ---
-title: Mod Template
+title: Mod
 authors: mia-riezebos
 created: 2025-08-23T11:58:33+02:00
-modified: 2025-10-06T07:45:45+02:00
+modified: 2025-10-06T11:18:57+02:00
 ---
-
-# Mod Template
 
 This is an Obsidian Templater template file that can be used to quickly add a mod to the `Mods/` folder.
 
@@ -168,14 +166,13 @@ _%>
 
 ---
 
-# <% mod_name %>
+_<% mod_summary %>_
 
 > by <% mod_author %>
 
 Find <% mod_name %> on [Modrinth](<% mod_url %>).
 
-> [!INFO]+ Summary  
-> From Modrinth: _<% mod_summary %>_
+---
 
 We use <% mod_name %> <% mod_use_case %><% tp.file.cursor() %>
 

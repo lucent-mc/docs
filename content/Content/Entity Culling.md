@@ -5,7 +5,7 @@ description: Using async path-tracing to hide Block-/Entities that are not visib
 url: https://modrinth.com/mod/entityculling
 type: mod
 created: 2025-10-04T12:11:02+02:00
-modified: 2025-10-06T07:54:21+02:00
+modified: 2025-10-06T11:20:20+02:00
 license: Other
 license_url: https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling
 supported_versions:
@@ -24,14 +24,13 @@ tags:
   - optimizations
 ---
 
-# Entity Culling
+_Using async path-tracing to hide Block-/Entities that are not visible_
 
 > by tr7zw
 
 Find Entity Culling on [Modrinth](https://modrinth.com/mod/entityculling).
 
-> [!INFO]+ Summary  
-> From Modrinth: _Using async path-tracing to hide Block-/Entities that are not visible_
+---
 
 We use Entity Culling to speed up rendering on the client.
 

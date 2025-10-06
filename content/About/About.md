@@ -3,11 +3,9 @@ title: About
 authors: mia-riezebos
 type: page
 created: 2025-10-06T07:04:04+02:00
-modified: 2025-10-06T07:16:57+02:00
+modified: 2025-10-06T11:21:02+02:00
 license: CC BY-SA 4.0
 ---
-
-# About
 
 The Lucent project was borne out of a desire for range. In my endless search for mods and mod packs that fit my desires in different play styles, I noticed a lot of packs are either incredibly barebones, vanilla+ or all-in kitchen sink, with no real in-between. 
 

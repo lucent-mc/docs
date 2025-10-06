@@ -5,7 +5,7 @@ description: Allows for providing defaults for files absent in .minecraft like c
 url: https://modrinth.com/mod/configured-defaults/version/v21.8.0-1.21.8-NeoForge
 type: mod
 created: 2025-10-04T03:17:35+02:00
-modified: 2025-10-06T07:45:46+02:00
+modified: 2025-10-06T11:20:48+02:00
 license: MPL-2.0
 license_url: https://modrinth.com/mod/configured-defaults
 supported_versions:
@@ -21,14 +21,13 @@ tags:
   - optimizations
 ---
 
-# Configured Defaults
+_Allows for providing defaults for files absent in .minecraft like configs. A quintessential modpack utility._
 
 > by Fuzs
 
 Find Configured Defaults on [Modrinth](https://modrinth.com/mod/configured-defaults/version/v21.8.0-1.21.8-NeoForge).
 
-> [!INFO]+ Summary  
-> From Modrinth: *Allows for providing defaults for files absent in .minecraft like configs. A quintessential modpack utility.*
+---
 
 We use Configured Defaults to allow for shipping default configs without overriding user settings on update.
 

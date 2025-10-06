@@ -5,7 +5,7 @@ description: Integrating Connector with third-party APIs
 url: https://modrinth.com/mod/connector-extras/version/1.12.1+1.21.1
 type: mod
 created: 2025-10-03T08:14:16+02:00
-modified: 2025-10-06T07:45:46+02:00
+modified: 2025-10-06T11:20:30+02:00
 license: MIT
 license_url: https://github.com/Sinytra/ConnectorExtras/blob/master/LICENSE
 supported_versions:
@@ -21,14 +21,13 @@ tags:
   - optimizations
 ---
 
-# Connector Extras
+_Integrating Connector with third-party APIs_
 
 > by Sinytra
 
 Find Connector Extras on [Modrinth](https://modrinth.com/mod/connector-extras/version/1.12.1+1.21.1).
 
-> [!INFO]+ Summary  
-> From Modrinth: *Integrating Connector with third-party APIs*
+---
 
 We use Connector Extras to enable Fabric mods to use NeoForge versions of their dependencies / library mods.
 

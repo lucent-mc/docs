@@ -5,7 +5,7 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-06T07:45:45+02:00
+modified: 2025-10-06T11:20:57+02:00
 license:
   - CC BY-SA 4.0
   - CC-BY-SA 4.0
@@ -13,8 +13,6 @@ tags:
   - mod
   - optimizations
 ---
-
-# Research & Development
 
 This page contains a list of Mods that we want to look into and possibly add to one of the packs.
 

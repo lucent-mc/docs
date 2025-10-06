@@ -5,7 +5,7 @@ description: No-compromises game logic optimization mod. Well suited for clients
 url: https://modrinth.com/mod/lithium
 type: mod
 created: 2025-10-04T12:51:31+02:00
-modified: 2025-10-06T07:45:46+02:00
+modified: 2025-10-06T11:19:27+02:00
 license: LGPL-3.0-only
 license_url: https://modrinth.com/mod/lithium
 supported_versions:
@@ -25,14 +25,13 @@ tags:
   - optimizations
 ---
 
-# Lithium
+_No-compromises game logic optimization mod. Well suited for clients and servers of all kinds. Now available for Fabric and NeoForge!_
 
 > by jellysquid3
 
 Find Lithium on [Modrinth](https://modrinth.com/mod/lithium).
 
-> [!INFO]+ Summary  
-> From Modrinth: _No-compromises game logic optimization mod. Well suited for clients and servers of all kinds. Now available for Fabric and NeoForge!_
+---
 
 We use Lithium to optimize the game logic.
 

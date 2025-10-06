@@ -5,7 +5,7 @@ description: Memory usage optimizations
 url: https://modrinth.com/mod/ferrite-core
 type: mod
 created: 2025-10-04T13:49:33+02:00
-modified: 2025-10-06T07:45:46+02:00
+modified: 2025-10-06T11:20:06+02:00
 license: MIT
 license_url: https://modrinth.com/mod/ferrite-core/version/8.0.1-neoforge
 supported_versions:
@@ -24,14 +24,13 @@ tags:
   - optimizations
 ---
 
-# FerriteCore
+_Memory usage optimizations_
 
 > by malte0811
 
 Find FerriteCore on [Modrinth](https://modrinth.com/mod/ferrite-core).
 
-> [!INFO]+ Summary  
-> From Modrinth: _Memory usage optimizations_
+---
 
 We use FerriteCore to recude memory usage.
 

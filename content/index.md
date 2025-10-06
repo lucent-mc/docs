@@ -1,13 +1,11 @@
 ---
-title: Home
+title: index
 authors: mia-riezebos
 type: page
 created: 2025-08-23T12:01:57+02:00
-modified: 2025-10-06T07:45:45+02:00
+modified: 2025-10-06T11:16:22+02:00
 license: CC-BY-SA 4.0
 ---
-
-# Home
 
 _Fortune favors the adventurous_
 
