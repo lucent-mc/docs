@@ -9,7 +9,7 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
   if (title) {
     return (
       <h1 class={classNames(displayClass, "article-title")}>
-        {icon ? <iconify-icon icon={icon}></iconify-icon> : ""}
+        {icon ? <iconify-icon width='1em' height='1em' icon={icon}></iconify-icon> : ""}
         {title}
       </h1>
     )
