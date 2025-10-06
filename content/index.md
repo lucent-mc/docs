@@ -17,9 +17,7 @@ Get immersed in a beautiful world of flora and fauna. Explore, improve, and chal
 
 Welcome to the Lucent Adventures wiki! In this wiki you will find information about all Lucent mod packs, as well as documentation about how each mod is used in the mod pack.
 
-On the right, there is a sidebar with navigation items for the most important pages on this wiki. If you're struggling to find something, try the search bar in the "Pages" section.
-
-This wiki will eventually move to a dedicated website either on [Obsidian Publish](https://obsidian.md/publish) or [Quartz](https://github.com/jackyzha0/quartz) to support useful extra features like callouts and frontmatter. Please bare with us and ignore the wrongly formatted frontmatter at the top of all pages.
+On the left, there is a sidebar with an explorer to find pages on this wiki. If you're struggling to find something, try the search bar at the top.
 
 Don't know where to start? Give [this page](Lucent%20Optimizations) a shot!
 
