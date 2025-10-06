@@ -45,8 +45,6 @@ All of the aforementioned mod packs are also available as "collections" on [Modr
 
 Follow development by following the github, starring the repositories, or joining us on [Discord](https://discord.gg/bePPwYJk2u).
 
-## Analytics
-
 <!-- You might also want to try out the pack on our community server `lucent.mia.cx` (this address may change). -->
 
 <!-- $VERSION = "VERSION"; git flow release start $VERSION; git flow release finish $VERSION -m "v$VERSION"; git push --all -->
