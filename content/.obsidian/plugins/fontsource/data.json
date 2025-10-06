@@ -105,7 +105,13 @@
       "isActive": true
     }
   ],
-  "interfaceFonts": [],
+  "interfaceFonts": [
+    {
+      "id": "archivo",
+      "family": "Archivo",
+      "precedence": 0
+    }
+  ],
   "textFonts": [],
   "monospaceFonts": []
 }
