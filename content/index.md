@@ -1,0 +1,50 @@
+---
+title: Home
+authors: mia-riezebos
+type: page
+created_at: 2025-08-23T12:01:57+02:00
+modified_at: 2025-10-06T07:45:45+02:00
+license: CC-BY-SA 4.0
+---
+
+# Home
+
+_Fortune favors the adventurous_
+
+Get immersed in a beautiful world of flora and fauna. Explore, improve, and challenge yourself with the numerous dangerous locations and enemies.
+
+---
+
+Welcome to the Lucent Adventures wiki! In this wiki you will find information about all Lucent mod packs, as well as documentation about how each mod is used in the mod pack.
+
+On the right, there is a sidebar with navigation items for the most important pages on this wiki. If you're struggling to find something, try the search bar in the "Pages" section.
+
+This wiki will eventually move to a dedicated website either on [Obsidian Publish](https://obsidian.md/publish) or [Quartz](https://github.com/jackyzha0/quartz) to support useful extra features like callouts and frontmatter. Please bare with us and ignore the wrongly formatted frontmatter at the top of all pages.
+
+Don't know where to start? Give [this page](Lucent%20Optimizations) a shot!
+
+Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [[Sinytra Connector]] and [[Forgified Fabric API]] mods.
+
+> [!NOTE]- Performance comparison  
+> In the same world at the same settings, NeoForge + Sodium + Lithium performs identical to Fabric + Sodium + Lithium.
+
+Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on 1.21.1 for the time being, we will target 1.21.1. You can optionally install [ViaVersion](https://modrinth.com/plugin/viaversion) and/or [ViaBackwards](https://modrinth.com/plugin/viabackwards) to play on older or newer servers. 
+
+## Mod Packs
+
+- [Lucent Optimizations](Lucent%20Optimizations) - Improved performance & bug fixes without altering the gameplay.
+- [Lucent Visuals](Lucent%20Visuals) - Client-side tweaks, sounds and visuals. Vanilla gameplay.
+- [Lucent Vanilla](Lucent%20Vanilla) - Quality of Life improvements without changing the core. Vanilla-compatible.
+- [Lucent Improvements](Lucent%20Improvements)
+- [Lucent Additions](Lucent%20Additions) - Introduces more structures, blocks, decorations, and more.
+- [Lucent Adventures](Lucent%20Adventures) - Improved world generation. Additional environment, structures, dimensions. Slows gameplay loop with a progression system, skill tree, RPG Classes.
+
+All of the aforementioned mod packs are also available as "collections" on [Modrinth](https://modrinth.com/user/lucent-adventures/collections), containing only the mods unique to each mod pack.
+
+## Join us
+
+Follow development by following the github, starring the repositories, or joining us on [Discord](https://discord.gg/bePPwYJk2u).
+
+<!-- You might also want to try out the pack on our community server `lucent.mia.cx` (this address may change). -->
+
+<!-- $VERSION = "VERSION"; git flow release start $VERSION; git flow release finish $VERSION -m "v$VERSION"; git push --all -->
