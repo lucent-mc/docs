@@ -64,6 +64,10 @@ export const defaultContentPageLayout: PageLayout = {
       localGraph: {
         depth: 3,
       },
+      globalGraph: {
+        repelForce: 0.3,
+        linkDistance: 15,
+      },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
@@ -96,6 +100,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         depth: 3,
+      },
+      globalGraph: {
+        repelForce: 0.3,
+        linkDistance: 15,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
