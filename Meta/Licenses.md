@@ -1,12 +1,13 @@
 ---
 title: Licenses
-author:
+description: This note contains information about different licenses that are commonly used on Modrinth.
+type: meta
+created_at: 2025-10-05T03:32:28+02:00
+modified_at: 2025-10-06T07:30:41+02:00
+license: AGPL-3.0-or-later
+authors:
   - lucent-mc
   - mia-riezebos
-description: This note contains information about different licenses that are commonly used on Modrinth.
-created_at: 2025-10-05T03:32:28+02:00
-modified_at: 2025-10-06T06:54:12+02:00
-license: AGPL-3.0-or-later
 tags: meta
 ---
 
@@ -16,7 +17,11 @@ This note contains information about different licenses that are commonly used o
 
 ## Lucent
 
-Lucent is currently not yet licensed under an open license as we are still browsing different options and possibly will compile our own. We will likely steer toward something similar to AGPL-3.0.
+Lucent itself is currently not yet licensed under an open license as we are still browsing different options and possibly will compile our own. We will likely steer toward something similar to AGPL-3.0.  
+
+The original content in the documentation for Lucent is licensed under `CC-BY-SA`. For anyone wanting to use, adapt or redistribute this documentation, this means they are required to give credit to this wiki as its source, and license any adaptations of our content under the same license terms.
+
+The externally sourced content in the documentation for Lucent necessarily complies with the original source's license terms. If the source has a permissive, copyleft license, that doesn't require our redistribution to be licensed under the same terms, it will still be licensed under the source license. It does not make sense for us to impose license terms on content that we did not write.
 
 ## ARR
 
@@ -36,13 +41,13 @@ CC licenses (except for `CC0`) require attribution.
 `SA` - Derivative works or adaptations must be **Shared Alike** (under the same license terms).
 
 License versions:
-- `CC BY`
-- `CC BY-SA`
-- `CC BY-NC`
-- `CC BY-NC-SA`
-- `CC BY-ND`
-- `CC BY-NC-ND`
-- `CC0` - Copyright on the work has been waived, and the work has been dedicated to the public domain.
+- `CC BY 4.0`
+- `CC BY-SA 4.0`
+- `CC BY-NC 4.0`
+- `CC BY-NC-SA 4.0`
+- `CC BY-ND 4.0`
+- `CC BY-NC-ND 4.0`
+- `CC0 1.0` - Copyright on the work has been waived, and the work has been dedicated to the public domain.
 
 ## GPL
 
