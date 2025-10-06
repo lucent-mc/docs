@@ -1,5 +1,5 @@
 ---
-title: Lucent Optimizations - Mods
+title: Mods
 authors:
 description:
 type:
