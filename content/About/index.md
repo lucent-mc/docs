@@ -1,7 +1,7 @@
 ---
 title: About
 authors: mia-riezebos
-description: The story and ideology behind Lucent.\n> "I figured, 'why not build such a kitchen-sink, but with in-between steps?'"
+description: The story and ideology behind Lucent.<br />"I figured, 'why not build such a kitchen-sink, but with in-between steps?'"
 type: page
 created: 2025-10-06T07:04:04+02:00
 modified: 2025-10-06T11:32:09+02:00
