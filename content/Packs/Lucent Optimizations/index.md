@@ -17,7 +17,7 @@ We leverage popular optimization mods with our own configs to set ourselves up f
 
 ## List of Mods (abridged)
 
-Find a comprehensive list of mods included with Lucent Optimizations [here](Mods.md).
+Find a comprehensive list of mods included with Lucent Optimizations [Mods](Mods.md).
 
 - [[Entity Culling]]
 - [[FerriteCore]]

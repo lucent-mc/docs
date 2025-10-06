@@ -9,7 +9,7 @@ license:
 license_url:
 ---
 
-Below you will find a list of all Mods included with Lucent Optimizations. 
+Below you will find a list of all Mods included with [[Packs/Lucent Optimizations/index|Lucent Optimizations]].
 
 ## Mods
 
