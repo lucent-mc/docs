@@ -12,13 +12,14 @@ icon: streamline-pixel:weather-cresent-moon-stars
 
 _Fortune favors the adventurous_
 
-Get immersed in a beautiful world of flora and fauna. Explore, improve, and challenge yourself with the numerous dangerous locations and enemies.
+Get immersed in a beautiful world of flora and fauna. Explore, improve, and challenge yourself with numerous dangerous locations, enemies and opportunities!
 
 ---
 
 Welcome to the Lucent Adventures wiki! In this wiki you will find information about each individual Lucent mod pack, as well as documentation about how each mod is used in said pack.
 
-On the left, there is a sidebar with an explorer to find pages on this wiki. If you're struggling to find something, try the search bar at the top!
+On the left, there is a sidebar with an explorer to find pages on this wiki, But if you're struggling to find something, try the search bar at the top!
+> [!NOTE]- Attention for mobile wiki users - Please use the menu icon in the top left to reveal the sidebar.
 
 Don't know where to start? Give [Lucent Optimizations](Packs/Lucent%20Optimizations/index.md) a shot!
 
