@@ -5,7 +5,25 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "lucent-mc/docs",
+        repoId: "R_kgDOP8-lsg",
+        category: "Comments",
+        categoryId: "DIC_kwDOP8-lss4CwTYz",
+        themeUrl: "https://giscus.catppuccin.com/themes",
+        lightTheme: "latte-sky",
+        darkTheme: "mocha-sky",
+        mapping: "pathname",
+        strict: true,
+        reactionsEnabled: true,
+        inputPosition: "top",
+        lang: "en",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/lucent-mc",
