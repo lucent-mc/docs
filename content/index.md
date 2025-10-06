@@ -38,7 +38,7 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 - [[Packs/Lucent Additions/index|Lucent Additions]] - Introduces more structures, blocks, decorations, and more.
 - [[Packs/Lucent Adventures/index|Lucent Adventures]] - Improved world generation. Additional environment, structures, dimensions. Slows gameplay loop with a progression system, skill tree, RPG Classes.
 
-All of the aforementioned mod packs are also available as "collections" on [Modrinth](https://modrinth.com/user/lucent-adventures/collections), containing only the mods unique to each mod pack.
+All of the aforementioned mod packs are also available as "collections" on [Modrinth](https://modrinth.com/user/lucent-adventures/collections), containing only the mods unique to each pack.
 
 ## Join us
 
