@@ -32,7 +32,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [-] [Wandrous](https://modrinth.com/mod/wandrous)
 - [ ] [ParCool!](https://modrinth.com/mod/parcool)
 
-### Lucent Optimizations
+### [[Packs/Lucent Optimizations/index|Lucent Optimizations]]
 
 - [x] [[Configured Defaults]]
 - [x] [[Connector Extras]]
@@ -43,13 +43,13 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [x] [[Sinytra Connector]]
 - [x] [[Sodium]]
 
-### Lucent Visuals
+### [[Lucent Visuals/index|Lucent Visuals]]
 
-### Lucent Improvements
+### [[Lucent Improvements/index|Lucent Improvements]]
 
-### Lucent Additions
+### [[Lucent Additions/index|Lucent Additions]]
 
-### Lucent Adventures
+### [[Lucent Adventures/index|Lucent Adventures]]
 
 - [ ] [Via Romana](https://modrinth.com/mod/via-romana)
 
