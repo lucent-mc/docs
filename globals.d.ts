@@ -1,4 +1,4 @@
-import { IconifyIcon, IconifyIconAttributes, IconifyIconHTMLElement, IconifyIconProperties } from "iconify-icon"
+import { IconifyIconAttributes } from "iconify-icon"
 
 export declare global {
   interface Document {

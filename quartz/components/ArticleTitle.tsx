@@ -1,8 +1,6 @@
 import { classNames } from "../util/lang";
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types";
 
-import "iconify-icon";
-
 const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const title = fileData.frontmatter?.title
   const icon = fileData.frontmatter?.icon
