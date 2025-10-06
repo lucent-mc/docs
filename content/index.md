@@ -1,5 +1,5 @@
 ---
-title: index
+title: Lucent Adventures
 authors: mia-riezebos
 description:
 type: page

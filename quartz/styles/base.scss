@@ -357,9 +357,9 @@ thead {
   }
   &:not(h1) {
     font-family: var(--headerFont);
+    font-weight: revert;
   }
   color: var(--dark);
-  font-weight: revert;
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {
