@@ -14,9 +14,12 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.title} © {year} - a[href=""]{"\n"}
+          {i18n(cfg.locale).components.footer.title} © {year} -{" "}
+          <a href="https://dev.lucent.mia.cx/Meta/Licenses">CC BY-SA 4.0</a>
+          <br />
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://obsidian.md/">Obsidian</a> and <a href="https://quartz.jzhao.xyz/">Quartz</a>
+          <a href="https://obsidian.md/">Obsidian</a> and{" "}
+          <a href="https://quartz.jzhao.xyz/">Quartz</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
