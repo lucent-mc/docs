@@ -26,7 +26,7 @@ const config: QuartzConfig = {
       typography: {
         title: "Archivo Black",
         header: "Archivo",
-        body: "Funnel Sans",
+        body: "Archivo",
         code: "Google Sans Code",
       },
       colors: {
