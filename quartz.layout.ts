@@ -65,8 +65,8 @@ export const defaultContentPageLayout: PageLayout = {
         depth: 3,
       },
       globalGraph: {
-        repelForce: 0.3,
-        linkDistance: 15,
+        repelForce: 1.0,
+        linkDistance: 30,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
@@ -102,8 +102,8 @@ export const defaultListPageLayout: PageLayout = {
         depth: 3,
       },
       globalGraph: {
-        repelForce: 0.3,
-        linkDistance: 15,
+        repelForce: 1.0,
+        linkDistance: 30,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
