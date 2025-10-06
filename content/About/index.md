@@ -6,7 +6,7 @@ description: |-
   "I figured, 'why not build such a kitchen-sink, but with in-between steps?'"
 type: page
 created: 2025-10-06T07:04:04+02:00
-modified: 2025-10-06T11:59:23+02:00
+modified: 2025-10-06T13:42:26+02:00
 license: CC BY-SA 4.0
 license_url:
 icon: ri:moon-fill
@@ -14,7 +14,7 @@ icon: ri:moon-fill
 
 The Lucent project was borne out of a desire for range, depth, and choice. In my endless search for mods and mod packs that fit my desires in different play styles, I noticed a lot of packs are either incredibly barebones, vanilla+ or all-in kitchen sink, with no real in-between. 
 
-## The Concept
+## <iconify-icon icon="ri:moon-fill" widht="1em" height="1lh"></iconify-icon>The Concept
 
 I figured, "why not build such a kitchen-sink, but with in-between steps?" A mod pack, but it's a fork tree. I thought about this and realised that not only will this give players the freedom to choose exactly *how* much they want to alter or expand the game, but also give us a way easier time maintaining these packs as when we update an upstream pack (i.e. Optimizations), those changes all trickle down through the forks, syncing from the upstream.
 
