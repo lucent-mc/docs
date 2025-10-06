@@ -1,13 +1,12 @@
 ---
-title: About
+title: <svg xmlns="http://www.w3.org/2000/svg" width="1.75rem" height="1.75rem" viewBox="0 0 24 24"><path fill="currentColor" d="M11.38 2.019a7.5 7.5 0 1 0 10.6 10.6C21.662 17.854 17.316 22 12.001 22C6.477 22 2 17.523 2 12c0-5.315 4.146-9.661 9.38-9.981"/></svg> About
 authors: mia-riezebos
 description: |-
   The story and ideology behind Lucent. 
-
   "I figured, 'why not build such a kitchen-sink, but with in-between steps?'"
 type: page
 created: 2025-10-06T07:04:04+02:00
-modified: 2025-10-06T11:32:09+02:00
+modified: 2025-10-06T11:55:00+02:00
 license: CC BY-SA 4.0
 license_url:
 ---
