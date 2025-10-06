@@ -17,9 +17,11 @@ This note contains information about different licenses that are commonly used o
 
 Lucent itself is currently not yet licensed under an open license as we are still browsing different options and possibly will compile our own. We will likely steer toward something similar to AGPL-3.0.  
 
-The original content in the documentation for Lucent is licensed under `CC-BY-SA 4.0`. Read the full license [here](https://github.com/lucent-mc/docs/blob/v4/content/LICENSE.md). For anyone wanting to use, adapt or redistribute this documentation, this means they are required to give credit to this wiki as its source, and license any adaptations of our content under the same license terms.
+The original content in the documentation for Lucent is licensed under `CC BY-SA 4.0`. Read the full license [here](https://github.com/lucent-mc/docs/blob/v4/content/LICENSE.md). For anyone wanting to use, adapt or redistribute this documentation, this means they are required to give credit to this wiki as its source, and license any adaptations of our content under the same license terms.
 
 The externally sourced content in the documentation for Lucent necessarily complies with the original source's license terms. If the source has a permissive, copyleft license, that doesn't require our redistribution to be licensed under the same terms, it will still be licensed under the source license. It does not make sense for us to impose license terms on content that we did not write.
+
+Icons in the titles are from [Streamline Vector](https://www.streamlinehq.com/icons/pixel-icons). Licensed under `CC BY 4.0`. Hence this attribution notice.
 
 ## ARR
 
