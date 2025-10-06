@@ -11,11 +11,11 @@ license_url:
 tags: meta
 ---
 
-This note contains information about different licenses that are commonly used on Modrinth. Mainly I have this note here as quick reference to check which licenses require additional attribution on the mod packs' home pages.
+This note contains information about different licenses that are commonly used on Modrinth. Mainly I have this note here as quick reference to check which mods require additional attribution on the mod packs' home pages.
 
 ## Lucent
 
-Lucent itself is currently not yet licensed under an open license as we are still browsing different options and possibly will compile our own. We will likely steer toward something similar to AGPL-3.0.  
+[Lucent Adventures](index.md) itself is currently not yet licensed under an open license as we are still browsing different options and possibly will compile our own. We will likely steer toward something similar to AGPL-3.0.  
 
 The original content in the documentation for Lucent is licensed under `CC BY-SA 4.0`. Read the full license [here](https://github.com/lucent-mc/docs/blob/v4/content/LICENSE.md). For anyone wanting to use, adapt or redistribute this documentation, this means they are required to give credit to this wiki as its source, and license any adaptations of our content under the same license terms.
 
