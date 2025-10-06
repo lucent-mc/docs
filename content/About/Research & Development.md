@@ -5,7 +5,7 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-06T13:46:05+02:00
+modified: 2025-10-06T16:13:39+02:00
 license:
   - CC BY-SA 4.0
   - CC-BY-SA 4.0
@@ -23,17 +23,15 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] AE2 (look at for create conflicts & balancing)
 - [ ] Antique Atlas
 - [ ] Antique Trains
-- [ ] CarryOn
 - [ ] Create
 	- [ ] Create Addons
-- [ ] [LuckPerms](https://modrinth.com/plugin/luckperms)
-- [ ] Serene Seasonssophisticated backpacks
+- [ ] Serene Seasons
 - [ ] Supplementaries
 - [-] [Wandrous](https://modrinth.com/mod/wandrous)
-- [ ] [ParCool!](https://modrinth.com/mod/parcool)
 
 ### [[Packs/Lucent Optimizations/index|Lucent Optimizations]]
 
+- [ ] [LuckPerms](https://modrinth.com/plugin/luckperms)
 - [x] [[Configured Defaults]]
 - [x] [[Connector Extras]]
 - [x] [[Entity Culling]]
@@ -45,9 +43,19 @@ This page contains a list of Mods that we want to look into and possibly add to 
 
 ### [[Lucent Visuals/index|Lucent Visuals]]
 
+- [ ] [Iris](https://modrinth.com/mod/iris)
+- [ ] [Letterboxing](https://modrinth.com/mod/letterboxing)
+
+### [[Packs/Lucent Vanilla/index|Lucent Vanilla]]
+
 ### [[Lucent Improvements/index|Lucent Improvements]]
 
+- [ ] CarryOn
+
 ### [[Lucent Additions/index|Lucent Additions]]
+
+- [ ] [ParCool!](https://modrinth.com/mod/parcool)
+- [ ] Sophisticated backpacks
 
 ### [[Lucent Adventures/index|Lucent Adventures]]
 
