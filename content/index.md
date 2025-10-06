@@ -40,12 +40,6 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 
 All of the aforementioned mod packs are also available as "collections" on [Modrinth](https://modrinth.com/user/lucent-adventures/collections), containing only the mods unique to each mod pack.
 
-```ts title="path/to/file.ts" {1,3}
-function main() {
-	console.log("hello world");
-}
-```
-
 ## Join us
 
 Follow development by following the github, starring the repositories, or joining us on [Discord](https://discord.gg/bePPwYJk2u).
