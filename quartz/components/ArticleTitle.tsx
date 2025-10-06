@@ -1,7 +1,7 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { classNames } from "../util/lang"
+import { classNames } from "../util/lang";
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types";
 
-import "iconify-icon"
+import "iconify-icon";
 
 const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const title = fileData.frontmatter?.title
@@ -9,7 +9,7 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
   if (title) {
     return (
       <h1 class={classNames(displayClass, "article-title")}>
-        {icon ? <iconify-icon width='1em' height='1em' icon={icon}></iconify-icon> : ""}
+        {icon ? <iconify-icon icon={icon} width="1em" height="1em"></iconify-icon> : ""}
         {title}
       </h1>
     )

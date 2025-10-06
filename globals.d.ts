@@ -1,4 +1,4 @@
-import { IconifyIconProperties } from "iconify-icon"
+import { IconifyIcon, IconifyIconAttributes, IconifyIconHTMLElement, IconifyIconProperties } from "iconify-icon"
 
 export declare global {
   interface Document {
@@ -16,11 +16,10 @@ export declare global {
     spaNavigate(url: URL, isBack: boolean = false)
     addCleanup(fn: (...args: any[]) => void)
   }
-  namespace preact {
-    namespace JSX {
-      interface IntrinsicElements {
-        "iconify-icon": IconifyIconProperties
-      }
+
+  namespace preact.JSX {
+    interface IntrinsicElements {
+      "iconify-icon": IconifyIconAttributes
     }
   }
 }
