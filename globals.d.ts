@@ -1,3 +1,5 @@
+import { IconifyIconProperties } from "iconify-icon"
+
 export declare global {
   interface Document {
     addEventListener<K extends keyof CustomEventMap>(
@@ -13,5 +15,12 @@ export declare global {
   interface Window {
     spaNavigate(url: URL, isBack: boolean = false)
     addCleanup(fn: (...args: any[]) => void)
+  }
+  namespace preact {
+    namespace JSX {
+      interface IntrinsicElements {
+        "iconify-icon": IconifyIconProperties
+      }
+    }
   }
 }

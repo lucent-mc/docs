@@ -37,7 +37,6 @@
   "dependencies": {
     "@clack/prompts": "^0.11.0",
     "@floating-ui/dom": "^1.7.4",
-    "@iconify/react": "^6.0.2",
     "@myriaddreamin/rehype-typst": "^0.6.0",
     "@napi-rs/simple-git": "0.1.22",
     "@tweenjs/tween.js": "^25.0.0",
@@ -54,6 +53,7 @@
     "hast-util-to-html": "^9.0.5",
     "hast-util-to-jsx-runtime": "^2.3.6",
     "hast-util-to-string": "^3.0.1",
+    "iconify-icon": "^3.0.1",
     "is-absolute-url": "^5.0.0",
     "js-yaml": "^4.1.0",
     "lightningcss": "^1.30.2",
