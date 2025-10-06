@@ -419,6 +419,19 @@ h6 {
   margin-bottom: 1rem;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  iconify-icon {
+    width: 1em;
+    height: 1em;
+    margin-right: 0.25em;
+  }
+}
+
 figure[data-rehype-pretty-code-figure] {
   margin: 0;
   position: relative;
