@@ -32,7 +32,7 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 
 ## Mod Packs
 
-- [[Lucent Optimizations|Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
+- [[Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
 - [[Lucent Visuals]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
 - [[Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
 - [[Lucent Improvements]]
