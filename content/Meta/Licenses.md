@@ -5,8 +5,8 @@ authors:
   - mia-riezebos
 description: This note contains information about different licenses that are commonly used on Modrinth.
 type: meta
-created_at: 2025-10-05T03:32:28+02:00
-modified_at: 2025-10-06T07:45:45+02:00
+created: 2025-10-05T03:32:28+02:00
+modified: 2025-10-06T07:45:45+02:00
 license: CC BY-SA 4.0
 tags: meta
 ---

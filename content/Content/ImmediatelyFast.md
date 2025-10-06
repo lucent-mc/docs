@@ -4,8 +4,8 @@ authors: RaphiMC
 description: Speed up immediate mode rendering in Minecraft
 url: https://modrinth.com/mod/immediatelyfast
 type: mod
-created_at: 2025-10-05T03:21:24+02:00
-modified_at: 2025-10-06T07:55:22+02:00
+created: 2025-10-05T03:21:24+02:00
+modified: 2025-10-06T07:55:22+02:00
 license: LGPL-3.0-only
 license_url: https://modrinth.com/mod/immediatelyfast
 supported_versions:

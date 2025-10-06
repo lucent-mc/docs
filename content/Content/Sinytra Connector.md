@@ -4,8 +4,8 @@ authors: Sinytra
 description: Run your favourite Fabric mods on NeoForge
 url: https://modrinth.com/mod/connector
 type: mod
-created_at: 2025-10-03T08:05:15+02:00
-modified_at: 2025-10-06T07:45:46+02:00
+created: 2025-10-03T08:05:15+02:00
+modified: 2025-10-06T07:45:46+02:00
 license: MIT
 license_url: https://github.com/Sinytra/Connector/blob/master/LICENSE
 supported_versions:

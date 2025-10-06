@@ -1,8 +1,8 @@
 ---
 title: Mod Template
 authors: mia-riezebos
-created_at: 2025-08-23T11:58:33+02:00
-modified_at: 2025-10-06T07:45:45+02:00
+created: 2025-08-23T11:58:33+02:00
+modified: 2025-10-06T07:45:45+02:00
 ---
 
 # Mod Template

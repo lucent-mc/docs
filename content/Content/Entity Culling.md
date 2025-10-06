@@ -4,8 +4,8 @@ authors: tr7zw
 description: Using async path-tracing to hide Block-/Entities that are not visible
 url: https://modrinth.com/mod/entityculling
 type: mod
-created_at: 2025-10-04T12:11:02+02:00
-modified_at: 2025-10-06T07:54:21+02:00
+created: 2025-10-04T12:11:02+02:00
+modified: 2025-10-06T07:54:21+02:00
 license: Other
 license_url: https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling
 supported_versions:

@@ -1,7 +1,7 @@
 ---
 title: Lucent Optimizations
-created_at: 2025-08-23T11:54:27+02:00
-modified_at: 2025-10-03T06:50:00+02:00
+created: 2025-08-23T11:54:27+02:00
+modified: 2025-10-03T06:50:00+02:00
 ---
 
 # Lucent Optimizations
