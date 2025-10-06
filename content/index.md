@@ -47,10 +47,6 @@ Follow development by following the github, starring the repositories, or joinin
 
 ## Analytics
 
-<iframe plausible-embed src="https://plausible.mia.cx/lucent.mia.cx?embed=true&theme=system" scrolling="no" frameborder="0" loading="lazy" style="width: 1px; min-width: 100%; height: 800px;"></iframe>
-<div style="font-size: 14px; padding-bottom: 14px;">Stats powered by <a target="_blank" style="color: #4F46E5; text-decoration: underline;" href="https://plausible.io">Plausible Analytics</a></div>
-<script async src="https://plausible.mia.cx/js/embed.host.js"></script>
-
 <!-- You might also want to try out the pack on our community server `lucent.mia.cx` (this address may change). -->
 
 <!-- $VERSION = "VERSION"; git flow release start $VERSION; git flow release finish $VERSION -m "v$VERSION"; git push --all -->
