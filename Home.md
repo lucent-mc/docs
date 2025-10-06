@@ -21,9 +21,9 @@ On the right, there is a sidebar with navigation items for the most important pa
 
 This wiki will eventually move to a dedicated website either on [Obsidian Publish](https://obsidian.md/publish) or [Quartz](https://github.com/jackyzha0/quartz) to support useful extra features like callouts and frontmatter. Please bare with us and ignore the wrongly formatted frontmatter at the top of all pages.
 
-Don't know where to start? Give [[Lucent Adventures|this page]] a shot!
+Don't know where to start? Give [this page](Lucent%20Optimizations.md) a shot!
 
-Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [[Sinytra Connector]] and [[Forgified Fabric API]] mods.
+Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [Sinytra Connector](Sinytra%20Connector.md) and [Forgified Fabric API](Forgified%20Fabric%20API.md) mods.
 
 > [!NOTE]- Performance comparison  
 > In the same world at the same settings, NeoForge + Sodium + Lithium performs identical to Fabric + Sodium + Lithium.
@@ -32,7 +32,7 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 
 ## Mod Packs
 
-- [[Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
+- [Lucent Optimizations](Lucent%20Optimizations.md) - Improved performance & bug fixes without altering the gameplay.
 - [[Lucent Visuals]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
 - [[Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
 - [[Lucent Improvements]]
