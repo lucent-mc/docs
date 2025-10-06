@@ -47,5 +47,13 @@
       ],
       "key": "Z"
     }
+  ],
+  "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }
