@@ -1,10 +1,11 @@
 ---
 title: FerriteCore
 author: malte0811
-summary: Memory usage optimizations
+description: Memory usage optimizations
 url: https://modrinth.com/mod/ferrite-core
+type: mod
 created_at: 2025-10-04T13:49:33+02:00
-modified_at: 2025-10-04T14:06:13+02:00
+modified_at: 2025-10-06T06:54:13+02:00
 license: MIT
 license_url: https://modrinth.com/mod/ferrite-core/version/8.0.1-neoforge
 supported_versions:

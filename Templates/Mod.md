@@ -1,7 +1,7 @@
 ---
 title: Mod Template
 created_at: 2025-08-23T11:58:33+02:00
-modified_at: 2025-10-04T12:22:00+02:00
+modified_at: 2025-10-06T06:53:58+02:00
 ---
 
 # Mod Template
@@ -24,7 +24,7 @@ let mod_url = await tp.system.prompt('URL to Modrinth page');
 let mod_summary = await tp.system.prompt('Mod summary as it appears on Modrinth');
 
 // Define different licenses  
-let license_types = ['ARR', 'GPL', 'AGPL', 'LGPL', 'Apache', 'Polyform', 'MPL', 'MIT', 'Unlicense', 'Other'];
+let license_types = ['ARR', 'CC', 'GPL', 'AGPL', 'LGPL', 'Apache', 'Polyform', 'MPL', 'MIT', 'Unlicense', 'Other'];
 
 // Define different licenses' variants  
 let license_arr = ['All Rights Reserved'];  
@@ -134,8 +134,9 @@ _%>
 
 title: <% mod_name %>  
 author: <% mod_author %>  
+description: <% mod_summary %>  
 url: <% mod_url %>  
-summary: <% mod_summary %>  
+type: mod  
 license: <% mod_license_variant %>  
 license_url: <% mod_license_url %>  
 supported_versions:  

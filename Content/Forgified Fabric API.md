@@ -1,10 +1,11 @@
 ---
 title: Forgified Fabric API
 author: Sinytra
-summary: Fabric API implemented on top of NeoForge
+description: Fabric API implemented on top of NeoForge
 url: https://modrinth.com/mod/forgified-fabric-api
+type: mod
 created_at: 2025-10-03T08:08:32+02:00
-modified_at: 2025-10-04T13:13:26+02:00
+modified_at: 2025-10-06T06:54:13+02:00
 license: Apache-2.0
 license_url: https://github.com/Sinytra/ForgifiedFabricAPI/blob/1.20.1/LICENSE
 supported_versions:

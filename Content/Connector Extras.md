@@ -1,10 +1,11 @@
 ---
 title: Connector Extras
 author: Sinytra
-summary: Integrating Connector with third-party APIs
+description: Integrating Connector with third-party APIs
 url: https://modrinth.com/mod/connector-extras/version/1.12.1+1.21.1
+type: mod
 created_at: 2025-10-03T08:14:16+02:00
-modified_at: 2025-10-04T13:13:46+02:00
+modified_at: 2025-10-06T06:54:13+02:00
 license: MIT
 license_url: https://github.com/Sinytra/ConnectorExtras/blob/master/LICENSE
 supported_versions:

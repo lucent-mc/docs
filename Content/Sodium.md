@@ -1,10 +1,11 @@
 ---
 title: Sodium
 author: jellysquid3
-summary: The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!
+description: The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!
 url: https://modrinth.com/mod/sodium
+type: mod
 created_at: 2025-10-04T12:16:40+02:00
-modified_at: 2025-10-04T13:11:13+02:00
+modified_at: 2025-10-06T06:54:13+02:00
 license: PolyForm-Shield
 license_url: https://github.com/CaffeineMC/sodium/blob/dev/LICENSE.md
 supported_versions:
