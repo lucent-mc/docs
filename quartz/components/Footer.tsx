@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.title} © {year} -{" "}
-          <a href="https://dev.lucent.mia.cx/Meta/Licenses">CC BY-SA 4.0</a>
+          <a href="https://dev.lucent.mia.cx/Meta/Licenses#lucent">CC BY-SA 4.0</a>
           <br />
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://obsidian.md/">Obsidian</a> and{" "}
