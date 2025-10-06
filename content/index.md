@@ -27,7 +27,7 @@ Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [
 > [!NOTE]- Performance comparison  
 > In the same world at the same settings, NeoForge + Sodium + Lithium performs identical to Fabric + Sodium + Lithium.
 
-Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on 1.21.1 for the time being, we will target 1.21.1. You can optionally install [ViaVersion](https://modrinth.com/plugin/viaversion) and/or [ViaBackwards](https://modrinth.com/plugin/viabackwards) to play on older or newer servers. 
+Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on 1.21.1 for the time being, we will target 1.21.1. You can optionally install [ViaVersion](https://modrinth.com/plugin/viaversion) and/or [ViaBackwards](https://modrinth.com/plugin/viabackwards) to play on older or newer servers.
 
 ## Mod Packs
 

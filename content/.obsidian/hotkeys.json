@@ -64,5 +64,14 @@
       ],
       "key": "S"
     }
+  ],
+  "prettier:format-selection": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }
