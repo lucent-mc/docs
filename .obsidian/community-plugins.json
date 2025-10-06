@@ -5,5 +5,10 @@
   "obsidian-git",
   "url-into-selection",
   "obsidian-outliner",
-  "alpha-bullet"
+  "alpha-bullet",
+  "settings-search",
+  "obsidian-style-settings",
+  "multi-properties",
+  "multi-tag",
+  "tag-wrangler"
 ]
