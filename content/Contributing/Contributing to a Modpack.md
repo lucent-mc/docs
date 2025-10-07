@@ -5,7 +5,7 @@ authors:
 description:
 type:
 created: 2025-10-07T19:48:40+02:00
-modified: 2025-10-07T20:54:34+02:00
+modified: 2025-10-07T20:57:02+02:00
 license:
 license_url:
 ---
@@ -73,7 +73,7 @@ git pull --all
 
 > [!info]- Contributing as a core maintainer  
 > If you are a core maintainer (i.e. with write access to the upstream repositories), you will want to omit the steps setting up the fork on your own github account. Also omit setting up an `upstream` remote, and just work off the `origin`.
->
+> 
 > ```sh
 > $PROJECT=<repository_name>
 > git init
@@ -98,6 +98,13 @@ git switch -C feat/<feature_name>
 ## Step 3: Make changes
 
 Add mods, change configs, optimize keybinds. Do what you set out to do, and commit to your changes with git.
+
+### Step 3a: Export the new `modrinth.index.json`
+
+1. Export your pack using the Modrinth App or your launcher of choice.
+2. Extract the `modrinth.index.json`.
+3. Place it in the root of the repository.
+4. Push your changes.
 
 ## Step 4: Make a Pull Request
 
