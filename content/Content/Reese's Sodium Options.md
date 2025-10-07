@@ -44,7 +44,9 @@ Reese's Sodium Options's defaults are sufficient so we provide no config overrid
 
 ## Relations
 
-## Dependencies - [Sodium](Sodium.md)
+## Dependencies
+
+- [Sodium](Sodium.md)
 
 ## License
 

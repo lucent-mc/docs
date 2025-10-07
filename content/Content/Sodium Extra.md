@@ -47,7 +47,7 @@ Sodium Extra runs without any user interaction.
 Sodium Extra's defaults good enough. We only change the `cloud_height` to `130` in stead of `192` as a preference.
 
 > [!note]- Config
-> 
+>
 > ```json {6} title="config/sodium-extra-options.json"
 > {
 >   ...
