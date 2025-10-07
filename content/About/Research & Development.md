@@ -5,12 +5,12 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-07T21:13:49+02:00
+modified: 2025-10-07T22:16:23+02:00
 license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:search-coding
-tags: 
+tags:
 ---
 
 This page contains a list of Mods that we want to look into and possibly add to one of the packs.
@@ -28,6 +28,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 
 ### [[Packs/Lucent Optimizations/index|Lucent Optimizations]]
 
+- [ ] 
 - [ ] [LuckPerms](https://modrinth.com/plugin/luckperms)
 - [x] [[Configured Defaults]]
 - [x] [[Connector Extras]]
