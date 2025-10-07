@@ -5,8 +5,8 @@ authors:
 description:
 type:
 created: 2025-10-07T19:48:40+02:00
-modified: 2025-10-07T20:57:02+02:00
-license:
+modified: 2025-10-07T20:58:25+02:00
+license: CC BY-SA 4.0
 license_url:
 ---
 
