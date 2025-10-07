@@ -4,7 +4,7 @@ authors: mia-riezebos
 description:
 type: page
 created: 2025-08-23T12:01:57+02:00
-modified: 2025-10-06T11:44:17+02:00
+modified: 2025-10-07T10:56:13+02:00
 license: CC-BY-SA 4.0
 license_url:
 icon: streamline-pixel:weather-cresent-moon-stars
@@ -20,8 +20,8 @@ Welcome to the Lucent Adventures wiki! In this wiki you will find information ab
 
 On the left, there is a sidebar with an explorer to find pages on this wiki, but if you're struggling to find something, try the search bar at the top!
 
-> [!info] Note
-> For mobile users: you can find the side menu by tapping the menu icon in the top left.
+> [!info] Mobile users  
+> You can find the search bar by tapping the menu icon in the top left.
 
 Don't know where to start? Give [Lucent Optimizations](Packs/Lucent%20Optimizations/index.md) a shot!
 
