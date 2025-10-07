@@ -174,13 +174,23 @@
               "icon": "lucide-list",
               "title": "Outline of Connector Extras"
             }
+          },
+          {
+            "id": "4ffe0be6ad0d50c3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "384ea342c4288f87",
+  "active": "57dedba5965e1bfc",
   "lastOpenFiles": [
     "Content/spark.md",
     "Content/Sodium.md",
