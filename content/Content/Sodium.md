@@ -5,7 +5,7 @@ description: The fastest and most compatible rendering optimization mod for Mine
 url: https://modrinth.com/mod/sodium
 type: mod
 created: 2025-10-04T12:16:40+02:00
-modified: 2025-10-06T11:18:46+02:00
+modified: 2025-10-07T22:39:55+02:00
 license: PolyForm-Shield
 license_url: https://github.com/CaffeineMC/sodium/blob/dev/LICENSE.md
 supported_versions:
@@ -65,6 +65,13 @@ Averaging around 360 FPS, around 3ms average frame time.
 ## Config
 
 Sodium's defaults are sufficient so we provide no config overrides.
+
+## Relations
+
+### Dependents
+
+- [[Sodium Extra]]
+- [[Reese's Sodium Options]]
 
 ## License
 

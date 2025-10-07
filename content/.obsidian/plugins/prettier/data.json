@@ -15,6 +15,6 @@
       "semi": false,
       "singleQuote": true
     },
-    "ignorePatterns": "**/.git\n**/.svn\n**/.hg\n**/node_modules"
+    "ignorePatterns": "**/.git\n**/.svn\n**/.hg\n**/node_modules\n\nTemplates/"
   }
 }

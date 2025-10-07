@@ -4,7 +4,7 @@ authors: mia-riezebos
 description:
 type:
 created: 2025-08-23T11:58:33+02:00
-modified: 2025-10-07T21:09:38+02:00
+modified: 2025-10-07T22:39:36+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 tags: template
@@ -12,9 +12,8 @@ tags: template
 
 This is an Obsidian Templater template file that can be used to quickly add a mod to the `Mods/` folder.
 
-<%\* tR = "" -%>
-
-<%\_\*  
+<%* tR = "" -%>  
+<%_*  
 // Ask the user for the name of the mod  
 let mod_name = await tp.system.prompt('Name of the Mod');
 
@@ -138,16 +137,14 @@ let mod_dependencies = await tp.system.multi_suggester(
  'Does this mod depend on any other mods?',  
 );
 
-if (mod*dependencies.length > 0) {  
+if (mod_dependencies.length > 0) {  
  for (const mod of mod_dependencies) {  
  tp.user.mod_helper.appendToDependents(tp, mod, mod_name);  
  }  
 }  
-*%>
-
+%>
 ---
-
-title: <% mod*name %>  
+title: <% mod_name %>  
 author: <% mod_author %>  
 description: <% mod_summary %>  
 url: <% mod_url %>  
@@ -155,23 +152,22 @@ type: mod
 license: <% mod_license_variant %>  
 license_url: <% mod_license_url %>  
 supported_versions:  
-<%\*  
+<%*  
 for (const version of mod_versions) {  
  tR += `  - "${version}"\n`  
 }  
-*%>  
-<%_ if (mod_dependencies.length > 0) { -%>  
+%>  
+<%_* if (mod_dependencies.length > 0) { -%>  
 depends_on:  
-<%_  
- for (const dependency of mod*dependencies) {  
+<%*  
+ for (const dependency of mod_dependencies) {  
  tR += `  - "[[${dependency.basename}]]"\n`  
  }  
-*%>  
-<%\* } -%>
-
+_%>  
+<%* } -%>
 ---
 
-*<% mod_summary %>*
+_<% mod_summary %>_
 
 > by <% mod_author %>
 
@@ -189,26 +185,23 @@ We use <% mod_name %> <% mod_use_case %><% tp.file.cursor() %>
 
 <% mod_name %>'s defaults are sufficient so we provide no config overrides.
 
-<%\* if (mod*dependencies.length > 0) { *%>
+<%* if (mod_dependencies.length > 0) { %>
 
 ## Relations
 
 ## Dependencies
 
-<%\_  
- for (const dependency of mod*dependencies) {  
+<%_*  
+ for (const dependency of mod_dependencies) {  
  tR += `  - [${dependency.basename}](${encodeURI(dependency.name)})\n`  
  }  
-*%>  
-<%\_\_ } -%>
+%>  
+<%_* } -%>
 
 ## License
 
 <% mod_name %> is licensed under <% mod_license_variant %>. Read the license [here](<% mod_license_url%>).
 
-<%\*  
-await tp.file.rename(mod*name);  
-tp.hooks.on_all_templates_executed(() => {  
- tp.app.commands.executeCommandById("obsidian-linter:lint-all-files-in-folder")  
-});  
-*%>
+<%*  
+await tp.file.rename(mod_name);  
+%>
