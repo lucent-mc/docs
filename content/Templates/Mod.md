@@ -12,7 +12,7 @@ tags: template
 
 This is an Obsidian Templater template file that can be used to quickly add a mod to the `Mods/` folder.
 
-<%* tR = "" -%>  
+<%_* tR = "" _%>  
 <%_*  
 // Ask the user for the name of the mod  
 let mod_name = await tp.system.prompt('Name of the Mod');
@@ -142,7 +142,7 @@ if (mod_dependencies.length > 0) {
  tp.user.mod_helper.appendToDependents(tp, mod, mod_name);  
  }  
 }  
-%>
+-%>
 ---
 title: <% mod_name %>  
 author: <% mod_author %>  

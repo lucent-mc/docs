@@ -5,7 +5,7 @@ description: "A Sodium addon that adds features that shouldn't be in Sodium."
 url: https://modrinth.com/mod/sodium-extra
 type: mod
 created: 2025-10-07T22:37:12+02:00
-modified: 2025-10-07T22:47:32+02:00
+modified: 2025-10-07T23:22:02+02:00
 license: LGPL-3.0-only
 license_url: https://modrinth.com/mod/sodium-extra
 supported_versions:
@@ -47,7 +47,7 @@ Sodium Extra runs without any user interaction.
 Sodium Extra's defaults good enough. We only change the `cloud_height` to `130` in stead of `192` as a preference.
 
 > [!note]- Config
->
+> 
 > ```json {6} title="config/sodium-extra-options.json"
 > {
 >   ...
