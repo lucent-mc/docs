@@ -18,13 +18,13 @@ supported_versions:
   - 1.21.3
   - 1.21.2
   - 1.21.1
-  - "1.21"
+  - '1.21'
 tags:
   - mod
   - optimizations
 ---
 
- _spark is a performance profiler for Minecraft clients, servers and proxies._
+_spark is a performance profiler for Minecraft clients, servers and proxies._
 
 > by lucko
 

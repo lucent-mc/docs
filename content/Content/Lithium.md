@@ -18,7 +18,7 @@ supported_versions:
   - 1.21.3
   - 1.21.2
   - 1.21.1
-  - "1.21"
+  - '1.21'
 tags:
   - mod
   - neoforge
@@ -41,9 +41,10 @@ Lithium runs without any user interaction.
 
 ## Results
 
-Rough "real life" benchmarks are done on a single player world with 
-- level-type `minecraft:amplified` 
-- seed `Testing` 
+Rough "real life" benchmarks are done on a single player world with
+
+- level-type `minecraft:amplified`
+- seed `Testing`
 - full screen at 2560x1440
 - Render distance & Simulation Distance at 32 chunks
 - FOV at Quake Pro

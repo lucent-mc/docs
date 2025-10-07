@@ -10,9 +10,9 @@ license: MIT
 license_url: https://github.com/Sinytra/Connector/blob/master/LICENSE
 supported_versions:
   - 1.21.1
-  - "1.21"
+  - '1.21'
 depends_on:
-  - "[[Forgified Fabric API]]"
+  - '[[Forgified Fabric API]]'
 tags:
   - fabric
   - library

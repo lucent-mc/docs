@@ -18,7 +18,7 @@ supported_versions:
   - 1.21.3
   - 1.21.2
   - 1.21.1
-  - "1.21"
+  - '1.21'
 tags:
   - mod
   - neoforge
