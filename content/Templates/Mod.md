@@ -4,9 +4,10 @@ authors: mia-riezebos
 description:
 type:
 created: 2025-08-23T11:58:33+02:00
-modified: 2025-10-07T21:03:03+02:00
+modified: 2025-10-07T21:09:38+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
+tags: template
 ---
 
 This is an Obsidian Templater template file that can be used to quickly add a mod to the `Mods/` folder.
@@ -32,40 +33,40 @@ let license_types = ['ARR', 'CC', 'GPL', 'AGPL', 'LGPL', 'Apache', 'Polyform', '
 // Define different licenses' variants  
 let license_arr = ['All Rights Reserved'];  
 let license_cc = [  
- 'CC BY 4.0',  
- 'CC BY-SA 4.0',  
- 'CC BY-NC 4.0',  
- 'CC BY-NC-SA 4.0',  
- 'CC BY-ND 4.0',  
- 'CC BY-NC-ND 4.0',  
- 'CC0 1.0',  
+'CC BY 4.0',  
+'CC BY-SA 4.0',  
+'CC BY-NC 4.0',  
+'CC BY-NC-SA 4.0',  
+'CC BY-ND 4.0',  
+'CC BY-NC-ND 4.0',  
+'CC0 1.0',  
 ];  
 let license_gpl = [  
- 'GPL-3.0-or-later',  
- 'GPL-3.0-only',  
- 'GPL-2.0-or-later',  
- 'GPL-2.0-only',  
- 'GPL-1.0-or-later',  
- 'GPL-1.0-only',  
+'GPL-3.0-or-later',  
+'GPL-3.0-only',  
+'GPL-2.0-or-later',  
+'GPL-2.0-only',  
+'GPL-1.0-or-later',  
+'GPL-1.0-only',  
 ];  
 let license_lgpl = [  
- 'LGPL-3.0-or-later',  
- 'LGPL-3.0-only',  
- 'LGPL-2.1-or-later',  
- 'LGPL-2.1-only',  
- 'LGPL-2.0-or-later',  
- 'LGPL-2.0-only',  
+'LGPL-3.0-or-later',  
+'LGPL-3.0-only',  
+'LGPL-2.1-or-later',  
+'LGPL-2.1-only',  
+'LGPL-2.0-or-later',  
+'LGPL-2.0-only',  
 ];  
 let license_agpl = ['AGPL-3.0-or-later', 'AGPL-3.0-only'];  
 let license_apache = ['Apache-2.0', 'Apache-1.1', 'Apache-1.0'];  
 let license_polyform = [  
- 'PolyForm-Shield',  
- 'PolyForm-Strict',  
- 'PolyForm-Noncommercial',  
- 'PolyForm-Free-Trial',  
- 'PolyForm-Internal-Use',  
- 'PolyForm-Small-Business',  
- 'PolyForm-Perimeter',  
+'PolyForm-Shield',  
+'PolyForm-Strict',  
+'PolyForm-Noncommercial',  
+'PolyForm-Free-Trial',  
+'PolyForm-Internal-Use',  
+'PolyForm-Small-Business',  
+'PolyForm-Perimeter',  
 ];  
 let license_mpl = ['MPL-2.0', 'MPL-1.1', 'MPL-1.0'];  
 let license_mit = ['MIT'];  

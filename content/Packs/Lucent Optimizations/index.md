@@ -3,9 +3,9 @@ title: Lucent Optimizations
 authors:
   - mia-riezebos
 description: The base of all Lucent packs, in charge of optimizing the game.
-type:
+type: pack
 created: 2025-08-23T11:54:27+02:00
-modified: 2025-10-06T11:32:09+02:00
+modified: 2025-10-07T21:11:27+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:photography-light-mode-flash-on

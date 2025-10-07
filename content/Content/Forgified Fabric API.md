@@ -10,7 +10,7 @@ license: Apache-2.0
 license_url: https://github.com/Sinytra/ForgifiedFabricAPI/blob/1.20.1/LICENSE
 supported_versions:
   - 1.21.1
-  - "1.21"
+  - '1.21'
 tags:
   - fabric
   - library

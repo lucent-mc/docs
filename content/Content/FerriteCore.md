@@ -5,7 +5,7 @@ description: Memory usage optimizations
 url: https://modrinth.com/mod/ferrite-core
 type: mod
 created: 2025-10-04T13:49:33+02:00
-modified: 2025-10-06T11:20:06+02:00
+modified: 2025-10-07T21:09:11+02:00
 license: MIT
 license_url: https://modrinth.com/mod/ferrite-core/version/8.0.1-neoforge
 supported_versions:
@@ -17,7 +17,7 @@ supported_versions:
   - 1.21.4
   - 1.21.3
   - 1.21.1
-  - "1.21"
+  - '1.21'
 tags:
   - mod
   - neoforge
@@ -44,9 +44,10 @@ FerriteCore runs without any user interaction.
 
 ## Results
 
-Rough "real life" benchmarks are done on a single player world with 
-- level-type `minecraft:amplified` 
-- seed `Testing` 
+Rough "real life" benchmarks are done on a single player world with
+
+- level-type `minecraft:amplified`
+- seed `Testing`
 - full screen at 2560x1440
 - Render distance & Simulation Distance at 32 chunks
 - FOV at Quake Pro

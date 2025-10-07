@@ -2,11 +2,12 @@
 title: Mods
 authors:
 description:
-type:
+type: pack
 created: 2025-08-23T11:54:27+02:00
-modified: 2025-10-06T11:32:09+02:00
+modified: 2025-10-07T21:11:27+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
+tags: pack
 ---
 
 Below you will find a list of all Mods included with [[Packs/Lucent Optimizations/index|Lucent Optimizations]].
