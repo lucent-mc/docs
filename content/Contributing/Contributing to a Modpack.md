@@ -5,9 +5,10 @@ authors:
 description:
 type:
 created: 2025-10-07T19:48:40+02:00
-modified: 2025-10-07T21:02:57+02:00
+modified: 2025-10-07T21:08:27+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
+tags: contributing
 ---
 
 On this page you will learn how to clone a modpack repository locally so you can work on it and contribute updates or fixes to it.
@@ -73,7 +74,7 @@ git pull --all
 
 > [!info]- Contributing as a core maintainer  
 > If you are a core maintainer (i.e. with write access to the upstream repositories), you will want to omit the steps setting up the fork on your own github account. Also omit setting up an `upstream` remote, and just work off the `origin`.
->
+> 
 > ```sh
 > $PROJECT=<repository_name>
 > git init
