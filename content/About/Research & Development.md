@@ -24,7 +24,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] Antique Atlas
 - [ ] Antique Trains
 - [ ] Create
-	- [ ] Create Addons
+  - [ ] Create Addons
 - [ ] Serene Seasons
 - [ ] Supplementaries
 - [-] [Wandrous](https://modrinth.com/mod/wandrous)

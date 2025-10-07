@@ -18,5 +18,6 @@
   "title-as-link-text",
   "wrangle-todos",
   "shiki-highlighter",
-  "prettier"
+  "prettier",
+  "obsidian-tasks-plugin"
 ]
