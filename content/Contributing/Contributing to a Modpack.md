@@ -73,7 +73,7 @@ git pull --all
 
 > [!info]- Contributing as a core maintainer  
 > If you are a core maintainer (i.e. with write access to the upstream repositories), you will want to omit the steps setting up the fork on your own github account. Also omit setting up an `upstream` remote, and just work off the `origin`.
-> 
+>
 > ```sh
 > $PROJECT=<repository_name>
 > git init
