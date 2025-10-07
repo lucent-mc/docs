@@ -5,7 +5,7 @@ authors:
 description:
 type:
 created: 2025-10-07T19:48:40+02:00
-modified: 2025-10-07T19:48:42+02:00
+modified: 2025-10-07T20:29:03+02:00
 license:
 license_url:
 ---
@@ -14,5 +14,96 @@ On this page you will learn how to clone a modpack repository locally so you can
 
 ## Step 1: Get the modpack locally
 
-1. Create a new instance on Modrinth and give it the same name as the mod pack you wish to work on.
-2. Open the instance folder of the pack you just created.
+1. Fork the repository you want to work on, on GitHub.
+2. Create a new instance on the [Modrinth App](https://modrinth.com/app), or your launcher of choice, and give it the same name as the mod pack you wish to work on.
+3. Open the instance folder of the pack you just created in your terminal of choice.
+4. Initialize a git repository in the instance folder
+
+   ```sh
+   git init
+   ```
+
+5. Add the GitHub remotes to the repository
+
+   ```sh
+   git remote add origin git@github.com:<your_username>/<repo>
+   git remote add upstream git@github.com:lucent-mc/<repo>
+   ```
+
+6. Pull the `dev` branch locally
+
+   ```sh
+   git pull origin dev
+   ```
+
+7. Rename the local branch to match the remote branch
+
+   ```sh
+   git branch -m master dev
+   ```
+
+8. Set up the local branch to track the remote branch.
+
+   ```sh
+   git branch --set-upstream-to=origin/dev
+   ```
+
+9. Sync the repository one final time
+
+```sh
+git pull --all
+```
+
+In a row, that's
+
+```sh
+$USERNAME=<your_github_username>
+$PROJECT=<repository_name>
+git init
+git remote add origin git@github.com:$USERNAME/$PROJECT
+git remote add upstream git@github.com:lucent-mc/$PROJECT
+git pull origin dev
+git branch -m master dev
+git branch --set-upstream-to=origin/dev
+git pull --all
+```
+
+> [!info]- Contributing as a core maintainer  
+> If you are a core maintainer (i.e. with write access to the upstream repositories), you will want to omit the steps setting up the fork on your own github account. Also omit setting up an `upstream` remote, and just work off the `origin`.
+> 
+> ```sh
+> $PROJECT=<repository_name>
+> git init
+> git remote add origin git@github.com:lucent-mc/$PROJECT
+> git pull origin dev
+> git branch -m master dev
+> git branch --set-upstream-to=origin/dev
+> git pull --all
+> ```
+
+## Step 2: Create a feature branch
+
+To keep your progress separate from what other people might be working on, and keeping the  
+_"trunk"_ clean, you should create a feature branch.
+
+You can do this with [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh), or manually. To create a feature branch manually, please use the `feat/` prefix.
+
+```sh
+git switch -C feat/<feature_name>
+```
+
+## Step 3: Make changes
+
+Add mods, change configs, optimize keybinds. Do what you set out to do, and commit to your changes with git.
+
+## Step 4: Make a Pull Request
+
+When you're happy with your changes / contributions, make a Pull Request on github, and wait for reviewers or maintainers.
+
+### Step 4a: Resolve any review requests
+
+If a reviewer or maintainer requests any changes to your PR, address those and resolve the conversations.
+
+## Step 5: Enjoy
+
+Congratulations! Your changes have been accepted! Now all you'll have to do is wait for your changes to be included in a new version.
