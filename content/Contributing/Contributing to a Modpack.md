@@ -5,9 +5,9 @@ authors:
 description:
 type:
 created: 2025-10-07T19:48:40+02:00
-modified: 2025-10-07T20:58:49+02:00
+modified: 2025-10-07T21:02:57+02:00
 license: CC BY-SA 4.0
-license_url:
+license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 ---
 
 On this page you will learn how to clone a modpack repository locally so you can work on it and contribute updates or fixes to it.

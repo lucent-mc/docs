@@ -6,7 +6,7 @@ type: page
 created: 2025-10-06T07:01:36+02:00
 modified: 2025-10-06T11:32:09+02:00
 license: CC BY-SA 4.0
-license_url:
+license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:interface-essential-question-help-circle-2
 ---
 

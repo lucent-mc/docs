@@ -6,7 +6,7 @@ type: page
 created: 2025-08-23T12:01:57+02:00
 modified: 2025-10-07T10:56:13+02:00
 license: CC BY-SA 4.0
-license_url:
+license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:weather-cresent-moon-stars
 ---
 
