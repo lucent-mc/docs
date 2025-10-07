@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Contributing/Contributing to a Modpack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Contributing to a Modpack"
             }
           }
         ]
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Contributing/Contributing to a Modpack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Roadmap"
+              "title": "Graph of Contributing to a Modpack"
             }
           }
         ]
@@ -278,10 +278,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "395e6f57f69e0f3f",
+  "active": "d985a34764629e68",
   "lastOpenFiles": [
-    "Packs/Lucent Visuals/index.md",
+    "Contributing/index.md",
+    "Contributing/Contributing to a Modpack.md",
+    "Contributing",
     "Roadmap.md",
+    "Packs/Lucent Visuals/index.md",
     "About/Research & Development.md",
     "Packs/index.md",
     "Packs/Lucent Optimizations/Mods.md",
@@ -313,9 +316,6 @@
     "Lucent Optimizations/Lucent Optimizations - Mods.md",
     "Content/Configured Defaults.md",
     "Content/Connector Extras.md",
-    "Content/Entity Culling.md",
-    "Content/FerriteCore.md",
-    "LICENSE",
     "Assets/Sodium_Before.png",
     "Assets/Sodium_After.png",
     "Assets/Lithium_After.png",
