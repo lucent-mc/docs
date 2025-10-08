@@ -14,3 +14,7 @@ In this note we will include items on our TODO list. You will find all of these 
 ## Branding
 
 - [ ] New name for [[Packs/2. Lucent Immersion/index|Lucent Immersion]] [assignee::[[Scyriate]]]
+
+## Wiki
+
+- [ ] Default opened folders (About & Packs, but leave Content collapsed.)
