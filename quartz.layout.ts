@@ -98,7 +98,6 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        console.log(a);
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
           return (a.sortName ?? a.displayName).localeCompare((b.sortName ?? b.displayName), undefined, {
             numeric: true,
