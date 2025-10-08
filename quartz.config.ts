@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "lucent.mia.cx",
-    ignorePatterns: ["private", "Templates", ".obsidian"],
+    ignorePatterns: ["00 Private", "99 Meta", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

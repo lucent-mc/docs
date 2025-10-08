@@ -1,5 +1,5 @@
 ---
-title: 2. Lucent Immersion
+title: Lucent Immersion
 authors:
   - mia-riezebos
 description:

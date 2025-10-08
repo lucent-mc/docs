@@ -1,5 +1,5 @@
 ---
-title: 4. Lucent Improvements
+title: Lucent Improvements
 authors:
 description:
 type: pack
