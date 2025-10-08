@@ -27,3 +27,4 @@ Find a comprehensive list of mods included with Lucent Optimizations [[02 Packs/
 - [[FerriteCore]]
 - [[Lithium]]
 - [[Sodium]]
+- [[spark|spark]]
