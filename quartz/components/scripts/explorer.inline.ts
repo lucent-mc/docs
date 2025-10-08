@@ -1,6 +1,7 @@
 import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
+import path from 'path';
 
 type MaybeHTMLElement = HTMLElement | undefined
 
@@ -125,12 +126,12 @@ function createFolderNode(
     span.textContent = node.displayName
   }
 
-  console.log(node);
+  
 
   // if the saved state is collapsed or the default (per-folder) state is collapsed
   const isCollapsed =
     currentExplorerState.find((item) => item.path === folderPath)?.collapsed ??
-    node.data?.collapsed ??
+    node.isCollapsed ??
     opts.folderDefaultState === "collapsed"
 
   // if this folder is a prefix of the current path we
@@ -195,13 +196,26 @@ async function setupExplorer(currentSlug: FullSlug) {
     }
 
     // Get folder paths for state management
-    const folderPaths = trie.getFolderPaths()
-    currentExplorerState = folderPaths.map((path) => {
-      const previousState = oldIndex.get(path)
+    // const folderPaths = trie.getFolderPaths()
+    // currentExplorerState = folderPaths.map((path) => {
+    //   const previousCollapsed = oldIndex.get(path)
+    //   return {
+    //     path,
+    //     collapsed:
+    //       previousCollapsed ?? opts.folderDefaultState === "collapsed"
+    //       // previousState === undefined ? opts.folderDefaultState === "collapsed" : previousState,
+    //   }
+    // })
+
+    const folders = trie.getFolders();
+    currentExplorerState = folders.map(([path, node]) => {
+      const previousCollapsed = oldIndex.get(path);
+      console.log(path)
+      console.log(node)
       return {
         path,
         collapsed:
-          previousState === undefined ? opts.folderDefaultState === "collapsed" : previousState,
+          previousCollapsed ?? node.isCollapsed ?? opts.folderDefaultState === "collapsed"
       }
     })
 
@@ -211,7 +225,6 @@ async function setupExplorer(currentSlug: FullSlug) {
     // Create and insert new content
     const fragment = document.createDocumentFragment()
     for (const child of trie.children) {
-      console.log(child);
       const node = child.isFolder
         ? createFolderNode(currentSlug, child, opts)
         : createFileNode(currentSlug, child)

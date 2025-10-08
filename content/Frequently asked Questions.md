@@ -8,6 +8,7 @@ modified: 2025-10-06T11:32:09+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:interface-essential-question-help-circle-2
+collapsed: 'false'
 ---
 
 On this page you will find a list of answers to frequently asked questions. Please check this page before opening a Support Request on our Issues pages.
