@@ -1,6 +1,6 @@
 {
-  "commitMessage": "Obsidian on {{hostname}}: {{date}}",
-  "autoCommitMessage": "Obsidian on {{hostname}}: {{date}}",
+  "commitMessage": "\"Updated wiki from {{hostname}}, on {{date}}\"",
+  "autoCommitMessage": "\"Updated wiki from {{hostname}}, on {{date}}\"",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
