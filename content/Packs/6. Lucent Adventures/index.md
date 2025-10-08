@@ -1,5 +1,5 @@
 ---
-title: Lucent Adventures
+title: 6. Lucent Adventures
 authors:
 description:
 type: pack

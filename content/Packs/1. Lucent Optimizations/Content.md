@@ -11,7 +11,7 @@ license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 tags: pack
 ---
 
-Below you will find a list of all Content included with [[Packs/1. Lucent Optimizations/index|Lucent Optimizations]].
+Below you will find a list of all Content included with [[Packs/1. Lucent Optimizations/index|1. Lucent Optimizations]].
 
 ## Mods
 

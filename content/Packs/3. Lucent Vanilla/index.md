@@ -1,5 +1,5 @@
 ---
-title: Lucent Vanilla
+title: 3. Lucent Vanilla
 authors:
 description:
 type: pack

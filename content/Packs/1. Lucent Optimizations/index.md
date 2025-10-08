@@ -1,5 +1,5 @@
 ---
-title: Lucent Optimizations
+title: 1. Lucent Optimizations
 authors:
   - mia-riezebos
 description: The base of all Lucent packs, in charge of optimizing the game.

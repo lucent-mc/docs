@@ -19,5 +19,6 @@
   "wrangle-todos",
   "shiki-highlighter",
   "prettier",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-front-matter-title-plugin"
 ]

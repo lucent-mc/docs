@@ -26,7 +26,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] Supplementaries
 - [-] [Wandrous](https://modrinth.com/mod/wandrous)
 
-### [[Packs/1. Lucent Optimizations/index|Lucent Optimizations]]
+### [[Packs/1. Lucent Optimizations/index|1. Lucent Optimizations]]
 
 - [ ] [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [ ] Reese's Sodium Options
@@ -40,22 +40,22 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [x] [[Sinytra Connector]]
 - [x] [[Sodium]]
 
-### [[Packs/2. Lucent Immersion/index|Lucent Immersion]]
+### [[Packs/2. Lucent Immersion/index|2. Lucent Immersion]]
 
 - [ ] [Iris](https://modrinth.com/mod/iris)
 - [ ] [Letterboxing](https://modrinth.com/mod/letterboxing)
 
-### [[Packs/3. Lucent Vanilla/index|Lucent Vanilla]]
+### [[Packs/3. Lucent Vanilla/index|3. Lucent Vanilla]]
 
-### [[Packs/4. Lucent Improvements/index|Lucent Improvements]]
+### [[Packs/4. Lucent Improvements/index|4. Lucent Improvements]]
 
 - [ ] CarryOn
 
-### [[Packs/5. Lucent Additions/index|Lucent Additions]]
+### [[Packs/5. Lucent Additions/index|5. Lucent Additions]]
 
 - [ ] [ParCool!](https://modrinth.com/mod/parcool)
 - [ ] Sophisticated backpacks
 
-### [[Packs/6. Lucent Adventures/index|Lucent Adventures]]
+### [[Packs/6. Lucent Adventures/index|6. Lucent Adventures]]
 
 - [ ] [Via Romana](https://modrinth.com/mod/via-romana)
