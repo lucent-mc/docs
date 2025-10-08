@@ -123,10 +123,23 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const uniqueSlugs = [...new Set(allSlugs)]
             allSlugs.splice(0, allSlugs.length, ...uniqueSlugs)
 
-            const collapsed = coalesceAliases(data, [
-              "collapsed"
-            ])
-            if (collapsed) data.collapsed = collapsed
+            // allow boolean or string values and preserve false
+            const collapsed = coalesceAliases(data, ["collapsed"])
+            if (collapsed !== undefined && collapsed !== null) {
+              if (typeof collapsed === "boolean") {
+                data.collapsed = collapsed
+              } else if (typeof collapsed === "string") {
+                const lowered = collapsed.toLowerCase()
+                if (lowered === "true" || lowered === "false") {
+                  data.collapsed = lowered === "true"
+                } else {
+                  // fallback: non-empty string treated as true
+                  data.collapsed = true
+                }
+              } else {
+                data.collapsed = Boolean(collapsed)
+              }
+            }
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
@@ -158,6 +171,7 @@ declare module "vfile" {
         socialImage: string
         comments: boolean | string
         icon: string
+            collapsed: boolean
       }>
   }
 }
