@@ -12,6 +12,6 @@ license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 
 This page contains a list of all mods contained in each modpack.
 
-## [[Packs/Lucent Optimizations/index|Lucent Optimizations]]
+## [[Packs/1. Lucent Optimizations/index|Lucent Optimizations]]
 
 ![[Content|Lucent Optimizations - Content]]
