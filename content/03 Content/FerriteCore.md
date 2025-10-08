@@ -5,7 +5,7 @@ description: Memory usage optimizations
 url: https://modrinth.com/mod/ferrite-core
 type: mod
 created: 2025-10-04T13:49:33+02:00
-modified: 2025-10-09T00:27:21+02:00
+modified: 2025-10-09T01:45:50+02:00
 license: MIT
 license_url: https://modrinth.com/mod/ferrite-core/version/8.0.1-neoforge
 supported_versions:

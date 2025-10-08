@@ -23,6 +23,7 @@ We leverage popular optimization mods with our own configs to set ourselves up f
 
 Find a comprehensive list of mods included with Lucent Optimizations [[02 Packs/1. Lucent Optimizations/Content|Lucent Optimizations - Content]].
 
+- [[Dynamic FPS|Dynamic FPS]]
 - [[Entity Culling]]
 - [[FerriteCore]]
 - [[Lithium]]
