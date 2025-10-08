@@ -5,6 +5,7 @@ interface FileTrieData {
   slug: string
   title: string
   filePath: string
+  collapsed?: boolean
 }
 
 export class FileTrieNode<T extends FileTrieData = ContentDetails> {
@@ -39,6 +40,10 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
     return (
       this.fileSegmentHint ?? this.displayNameOverride ?? nonIndexTitle ?? this.slugSegment ?? ""
     )
+  }
+
+  get isCollapsed(): boolean | null {
+    return this.data?.collapsed ?? null
   }
 
   set displayName(name: string) {

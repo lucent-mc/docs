@@ -125,9 +125,12 @@ function createFolderNode(
     span.textContent = node.displayName
   }
 
-  // if the saved state is collapsed or the default state is collapsed
+  console.log(node);
+
+  // if the saved state is collapsed or the default (per-folder) state is collapsed
   const isCollapsed =
     currentExplorerState.find((item) => item.path === folderPath)?.collapsed ??
+    node.data?.collapsed ??
     opts.folderDefaultState === "collapsed"
 
   // if this folder is a prefix of the current path we
@@ -208,6 +211,7 @@ async function setupExplorer(currentSlug: FullSlug) {
     // Create and insert new content
     const fragment = document.createDocumentFragment()
     for (const child of trie.children) {
+      console.log(child);
       const node = child.isFolder
         ? createFolderNode(currentSlug, child, opts)
         : createFileNode(currentSlug, child)

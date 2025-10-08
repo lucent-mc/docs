@@ -19,6 +19,7 @@ export type ContentDetails = {
   richContent?: string
   date?: Date
   description?: string
+  collapsed?: boolean
 }
 
 interface Options {
