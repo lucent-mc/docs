@@ -81,7 +81,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        depth: 2,
+        depth: 1,
         enableRadial: false,
       },
       globalGraph: {
@@ -139,7 +139,7 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        depth: 2,
+        depth: 1,
         enableRadial: false,
       },
       globalGraph: {
