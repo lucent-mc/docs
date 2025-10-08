@@ -5,12 +5,12 @@ authors:
 description:
 type: page
 created: 2025-10-06T14:07:02+02:00
-modified: 2025-10-07T21:11:57+02:00
+modified: 2025-10-09T00:16:59+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
+collapsed: 'false'
 icon: streamline-pixel:logo-social-media-dropbox
 tags: meta
-collapsed: "false"
 ---
 
 On this page you will find a list to all mod packs in the Lucent project.
