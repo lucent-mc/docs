@@ -25,7 +25,7 @@ On the left, there is a sidebar with an explorer to find pages on this wiki, but
 > [!info] Mobile users  
 > You can find the search bar by tapping the menu icon in the top left.
 
-Don't know where to start? Give [Lucent Optimizations](Packs/1.%20Lucent%20Optimizations/index.md) a shot!
+Don't know where to start? Give [[02 Packs/1. Lucent Optimizations/index|Lucent Optimizations]] a shot!
 
 Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [[Sinytra Connector]] and [[Forgified Fabric API]] mods.
 
