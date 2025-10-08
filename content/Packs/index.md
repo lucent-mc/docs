@@ -18,5 +18,5 @@ On this page you will find a list to all mod packs in the Lucent project.
 - [[Packs/Lucent Immersion/index|Lucent Immersion]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
 - [[Packs/Lucent Vanilla/index|Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
 - [[Packs/Lucent Improvements/index|Lucent Improvements]] - A ton of quality of life improvements. Alters the game, without the addition of new material.
-- [[Packs/Lucent Additions/index|Lucent Additions]] - Introduces more structures, blocks, decorations, and more.
+- [[Packs/Lucent Additions/index|Lucent Additions]] - Introduces structures, blocks, decorations, and more.
 - [[Packs/Lucent Adventures/index|Lucent Adventures]] - Improved world generation. Additional environment, structures, dimensions. Slows gameplay loop with a progression system, skill tree, RPG Classes.
