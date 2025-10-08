@@ -1,5 +1,5 @@
 ---
-title: Mods
+title: Conten
 authors:
 description:
 type: pack
