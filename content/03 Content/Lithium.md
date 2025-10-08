@@ -59,14 +59,14 @@ Improvements were marginal but real.
 Averaging around 360 FPS, around 3ms average frame time.  
 Average tick time of 8-9ms
 
-![](Sodium_After.png)
+![[Sodium_After.png]]
 
 ### After
 
 Averaging around 362 FPS (within margin of error), around 3ms average frame time  
 Average tick time of 6-7ms ^f93b56
 
-![](Lithium_After.png)
+![[Lithium_After.png]]
 
 ## Config
 

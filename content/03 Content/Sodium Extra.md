@@ -65,7 +65,7 @@ Sodium Extra's defaults good enough. We only change the `cloud_height` to `130` 
 
 ## Dependencies
 
-- [Sodium](Sodium.md)
+- [[Sodium]]
 
 ## License
 

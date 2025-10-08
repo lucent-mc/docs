@@ -25,4 +25,4 @@ Right now, the fork tree is just linear, one pack on top of the other, all the w
 
 We want Lucent packs to feel very coherent. Even if you choose a pack with a smaller subset of the content, it should still feel like it belongs in the Lucent collection.
 
-From the ground up, the game should run fast. That's why at the foundation we are first developing [[Packs/1. Lucent Optimizations/index|Lucent Optimizations]].
+From the ground up, the game should run fast. That's why at the foundation we are first developing [[02 Packs/1. Lucent Optimizations/index|Lucent Optimizations]].

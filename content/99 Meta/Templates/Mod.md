@@ -193,7 +193,7 @@ We use <% mod_name %> <% mod_use_case %><% tp.file.cursor() %>
 
 <%*  
  for (const dependency of mod_dependencies) {  
- tR += `  - [${dependency.basename}](${encodeURI(dependency.name)})\n`  
+ tR += `  - [[${dependency.basename}]]\n`  
  }  
 %>  
 <%_* } -%>

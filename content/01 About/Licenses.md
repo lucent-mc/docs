@@ -15,7 +15,7 @@ This note contains information about different licenses that are commonly used o
 
 ## Lucent
 
-[Lucent Adventures](index.md) itself is licensed under an `LGPL-3.0-or-later`.
+[[index|Lucent Adventures]] itself is licensed under an `LGPL-3.0-or-later`.
 
 The original content in the documentation for Lucent is licensed under `CC BY-SA 4.0`. Read the full license [here](https://github.com/lucent-mc/docs/blob/v4/content/LICENSE.md). For anyone wanting to use, adapt or redistribute this documentation, this means they are required to give credit to this wiki as its source, and license any adaptations of our content under the same license terms.
 

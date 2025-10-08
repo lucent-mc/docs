@@ -5,7 +5,7 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-07T22:31:02+02:00
+modified: 2025-10-09T00:24:31+02:00
 license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
@@ -26,7 +26,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] Supplementaries
 - [-] [Wandrous](https://modrinth.com/mod/wandrous)
 
-### [[Packs/1. Lucent Optimizations/index|Lucent Optimizations]]
+### [[02 Packs/1. Lucent Optimizations/index|Lucent Optimizations]]
 
 - [ ] [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [ ] Reese's Sodium Options
@@ -40,22 +40,22 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [x] [[Sinytra Connector]]
 - [x] [[Sodium]]
 
-### [[Packs/2. Lucent Immersion/index|Lucent Immersion]]
+### [[02 Packs/2. Lucent Immersion/index|Lucent Immersion]]
 
 - [ ] [Iris](https://modrinth.com/mod/iris)
 - [ ] [Letterboxing](https://modrinth.com/mod/letterboxing)
 
-### [[Packs/3. Lucent Vanilla/index|Lucent Vanilla]]
+### [[02 Packs/3. Lucent Vanilla/index|Lucent Vanilla]]
 
-### [[Packs/4. Lucent Improvements/index|Lucent Improvements]]
+### [[02 Packs/4. Lucent Improvements/index|Lucent Improvements]]
 
 - [ ] CarryOn
 
-### [[Packs/5. Lucent Additions/index|Lucent Additions]]
+### [[02 Packs/5. Lucent Additions/index|Lucent Additions]]
 
 - [ ] [ParCool!](https://modrinth.com/mod/parcool)
 - [ ] Sophisticated backpacks
 
-### [[Packs/6. Lucent Adventures/index|Lucent Adventures]]
+### [[02 Packs/6. Lucent Adventures/index|Lucent Adventures]]
 
 - [ ] [Via Romana](https://modrinth.com/mod/via-romana)

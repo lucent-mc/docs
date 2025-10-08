@@ -77,4 +77,4 @@ Entity Culling runs without any user interaction.
 
 Entity Culling is licensed under Other. Read the license [here](https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling).
 
-[^1]: [Lithium - 362 FPS average](Lithium#^f93b56)
+[^1]: [[Lithium#^f93b56]]

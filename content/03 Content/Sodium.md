@@ -60,7 +60,7 @@ Averaging around 28 FPS, around 36ms average frame time.
 
 Averaging around 360 FPS, around 3ms average frame time.
 
-![](Sodium_After.png)
+![[Sodium_After.png]]
 
 ## Config
 
