@@ -15,7 +15,7 @@ tags: meta
 On this page you will find a list to all mod packs in the Lucent project.
 
 - [[Packs/Lucent Optimizations/index|Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
-- [[Packs/Lucent Visuals/index|Lucent Visuals]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
+- [[Packs/Lucent Immersion/index|Lucent Immersion]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
 - [[Packs/Lucent Vanilla/index|Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
 - [[Packs/Lucent Improvements/index|Lucent Improvements]] - A ton of quality of life improvements. Alters the game, without the addition of new material.
 - [[Packs/Lucent Additions/index|Lucent Additions]] - Introduces more structures, blocks, decorations, and more.

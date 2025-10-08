@@ -1,5 +1,5 @@
 ---
-title: Lucent Visuals
+title: Lucent Immersion
 authors:
   - mia-riezebos
 description:

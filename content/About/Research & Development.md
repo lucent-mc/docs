@@ -40,7 +40,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [x] [[Sinytra Connector]]
 - [x] [[Sodium]]
 
-### [[Lucent Visuals/index|Lucent Visuals]]
+### [[Packs/Lucent Immersion/index|Lucent Immersion]]
 
 - [ ] [Iris](https://modrinth.com/mod/iris)
 - [ ] [Letterboxing](https://modrinth.com/mod/letterboxing)

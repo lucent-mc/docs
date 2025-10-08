@@ -13,4 +13,4 @@ In this note we will include items on our TODO list. You will find all of these 
 
 ## Branding
 
-- [ ] New name for [[Packs/Lucent Visuals/index|Lucent Visuals]] [assignee::[[Scyriate]]]
+- [ ] New name for [[Packs/Lucent Immersion/index|Lucent Immersion]] [assignee::[[Scyriate]]]
