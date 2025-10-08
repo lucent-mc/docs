@@ -1,5 +1,5 @@
 ---
-title: Content
+title: Lucent Optimizations - Content
 authors:
   - mia-riezebos
 description: A list of all content contained in Lucent Optimizations
