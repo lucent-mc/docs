@@ -32,8 +32,8 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#eff1f5", // catppuccin base
-          lightgray: "#7c7f93", // catppuccin mantle
-          gray: "#ccd0da", // catppuccin surface0
+          lightgray: "#e6e9ef", // catppuccin mantle
+          gray: "#7c7f93", // catppuccin overlay2
           darkgray: "#4c4f69", // catppuccin text
           dark: "#4c4f69", // catppuccin text
           secondary: "#40a02b", // catppuccin green
@@ -43,8 +43,8 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#1e1e2e", // catppuccin base
-          lightgray: "#9399b2", // catppuccin mantle
-          gray: "#313244", // catppuccin surface0
+          lightgray: "#181825", // catppuccin mantle
+          gray: "#9399b2", // catppuccin overlay2
           darkgray: "#cdd6f4", // catppuccin text
           dark: "#cdd6f4", // catppuccin text
           secondary: "#a6e3a1", // catppuccin green
