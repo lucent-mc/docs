@@ -34,6 +34,13 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
     )
   }
 
+  get sortName(): string {
+    const nonIndexTitle = this.data?.title === "index" ? undefined : this.data?.title
+    return (
+      this.fileSegmentHint ?? this.displayNameOverride ?? nonIndexTitle ?? this.slugSegment ?? ""
+    )
+  }
+
   set displayName(name: string) {
     this.displayNameOverride = name
   }

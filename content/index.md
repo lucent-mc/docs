@@ -24,7 +24,7 @@ On the left, there is a sidebar with an explorer to find pages on this wiki, but
 > [!info] Mobile users  
 > You can find the search bar by tapping the menu icon in the top left.
 
-Don't know where to start? Give [1. Lucent Optimizations](Packs/1.%20Lucent%20Optimizations/index.md) a shot!
+Don't know where to start? Give [Lucent Optimizations](Packs/1.%20Lucent%20Optimizations/index.md) a shot!
 
 Lucent Adventures uses the NeoForge loader, supporting Fabric mods through the [[Sinytra Connector]] and [[Forgified Fabric API]] mods.
 
@@ -35,7 +35,7 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 
 ## Mod Packs
 
-- [[Packs/1. Lucent Optimizations/index|1. Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
+- [[Packs/1. Lucent Optimizations/index|Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
 - [[Packs/2. Lucent Immersion/index|2. Lucent Immersion]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
 - [[Packs/3. Lucent Vanilla/index|3. Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
 - [[Packs/4. Lucent Improvements/index|4. Lucent Improvements]] - Quality of Life improvements that change the game (literally). True to Vanilla.

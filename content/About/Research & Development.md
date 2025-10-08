@@ -26,7 +26,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] Supplementaries
 - [-] [Wandrous](https://modrinth.com/mod/wandrous)
 
-### [[Packs/1. Lucent Optimizations/index|1. Lucent Optimizations]]
+### [[Packs/1. Lucent Optimizations/index|Lucent Optimizations]]
 
 - [ ] [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [ ] Reese's Sodium Options

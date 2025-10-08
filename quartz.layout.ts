@@ -63,12 +63,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         depth: 2,
-        enableRadial: false
+        enableRadial: false,
       },
       globalGraph: {
         repelForce: 1.0,
         linkDistance: 15,
-        enableRadial: false
+        enableRadial: false,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
@@ -96,18 +96,34 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        console.log(a);
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return (a.sortName ?? a.displayName).localeCompare((b.sortName ?? b.displayName), undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+
+        if (!a.isFolder && b.isFolder) {
+          return 1
+        } else {
+          return -1
+        }
+      },
+    }),
   ],
   right: [
     Component.Graph({
       localGraph: {
         depth: 2,
-        enableRadial: false
+        enableRadial: false,
       },
       globalGraph: {
         repelForce: 1.0,
         linkDistance: 15,
-        enableRadial: false
+        enableRadial: false,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
