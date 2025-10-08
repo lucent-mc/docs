@@ -44,7 +44,7 @@ Cloth Config API's defaults are sufficient so we provide no config overrides.
 
 ### Dependents
 
-- [[Dynamic FPS]]
+- [[Dynamic FPS]] (Optional)
 
 ## License
 

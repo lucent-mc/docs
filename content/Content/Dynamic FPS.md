@@ -44,7 +44,7 @@ Dynamic FPS's defaults are sufficient so we provide no config overrides.
 
 ### Dependencies
 
-- [[Cloth Config API]]
+- [[Cloth Config API]] (Optional)
 
 ## License
 
