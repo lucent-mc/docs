@@ -36,11 +36,11 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 ## Mod Packs
 
 - [[Packs/1. Lucent Optimizations/index|Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
-- [[Packs/2. Lucent Immersion/index|2. Lucent Immersion]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
-- [[Packs/3. Lucent Vanilla/index|3. Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
-- [[Packs/4. Lucent Improvements/index|4. Lucent Improvements]] - Quality of Life improvements that change the game (literally). True to Vanilla.
-- [[Packs/5. Lucent Additions/index|5. Lucent Additions]] - Introduces structures, blocks, decorations, and more.
-- [[Packs/6. Lucent Adventures/index|6. Lucent Adventures]] - Improved world generation. Additional environment, structures, dimensions. Slows gameplay loop with a progression system, skill tree, RPG Classes.
+- [[Packs/2. Lucent Immersion/index|Lucent Immersion]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
+- [[Packs/3. Lucent Vanilla/index|Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
+- [[Packs/4. Lucent Improvements/index|Lucent Improvements]] - Quality of Life improvements that change the game (literally). True to Vanilla.
+- [[Packs/5. Lucent Additions/index|Lucent Additions]] - Introduces structures, blocks, decorations, and more.
+- [[Packs/6. Lucent Adventures/index|Lucent Adventures]] - Improved world generation. Additional environment, structures, dimensions. Slows gameplay loop with a progression system, skill tree, RPG Classes.
 
 All of the aforementioned mod packs are also available as "collections" on [Modrinth](https://modrinth.com/user/lucent-adventures/collections), containing only the mods unique to each pack.
 
