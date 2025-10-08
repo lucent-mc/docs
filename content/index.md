@@ -47,7 +47,7 @@ All of the aforementioned mod packs are also available as "collections" on [Modr
 
 ## Join us
 
-Follow development by following the github, starring the repositories, or joining us on [Discord](https://discord.gg/bePPwYJk2u).
+Follow development by following the github, starring the repositories, or joining us on [Discord](https://discord.gg/3VKBJeCcZN).
 
 <!-- You might also want to try out the pack on our community server `lucent.mia.cx` (this address may change). -->
 

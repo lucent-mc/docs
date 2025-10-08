@@ -28,7 +28,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/lucent-mc",
       Modrinth: "https://modrinth.com/organization/lucent",
-      Discord: "https://discord.gg/bePPwYJk2u",
+      Discord: "https://discord.gg/3VKBJeCcZN",
     },
   }),
 }
