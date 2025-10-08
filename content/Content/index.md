@@ -14,4 +14,4 @@ This page contains a list of all mods contained in each modpack.
 
 ## [[Packs/Lucent Optimizations/index|Lucent Optimizations]]
 
-![[Content|Conten]]
+![[Content]]
