@@ -38,8 +38,8 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 - [[Packs/Lucent Optimizations/index|Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
 - [[Packs/Lucent Visuals/index|Lucent Visuals]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
 - [[Packs/Lucent Vanilla/index|Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
-- [[Packs/Lucent Improvements/index|Lucent Improvements]]
-- [[Packs/Lucent Additions/index|Lucent Additions]] - Introduces more structures, blocks, decorations, and more.
+- [[Packs/Lucent Improvements/index|Lucent Improvements]] - Quality of Life improvements that change the game (literally). True to Vanilla.
+- [[Packs/Lucent Additions/index|Lucent Additions]] - Introduces structures, blocks, decorations, and more.
 - [[Packs/Lucent Adventures/index|Lucent Adventures]] - Improved world generation. Additional environment, structures, dimensions. Slows gameplay loop with a progression system, skill tree, RPG Classes.
 
 All of the aforementioned mod packs are also available as "collections" on [Modrinth](https://modrinth.com/user/lucent-adventures/collections), containing only the mods unique to each pack.
