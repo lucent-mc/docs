@@ -12,7 +12,7 @@ icon: streamline-pixel:weather-cresent-moon-stars
 tags: meta
 ---
 
-_Fortune favors the adventurous_
+_Fortune favors the adventurous._
 
 Get immersed in a beautiful world of flora and fauna. Explore, improve, and challenge yourself with numerous dangerous locations, enemies and opportunities!
 
