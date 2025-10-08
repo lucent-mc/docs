@@ -5,7 +5,7 @@ description: "A Sodium addon that adds features that shouldn't be in Sodium."
 url: https://modrinth.com/mod/sodium-extra
 type: mod
 created: 2025-10-07T22:37:12+02:00
-modified: 2025-10-07T23:22:02+02:00
+modified: 2025-10-09T00:31:04+02:00
 license: LGPL-3.0-only
 license_url: https://modrinth.com/mod/sodium-extra
 supported_versions:
