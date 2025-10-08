@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "99 Meta/Templates",
   "templates_pairs": [
     [
       "",
@@ -11,12 +11,12 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "Templates/Scripts",
+  "user_scripts_folder": "99 Meta/Templates/Scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "Content",
-      "template": "Templates/Mod.md"
+      "template": "99 Meta/Templates/Mod.md"
     }
   ],
   "enable_file_templates": false,
