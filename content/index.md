@@ -43,12 +43,8 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 - [[02 Packs/5. Lucent Additions/index|Lucent Additions]] - Introduces structures, blocks, decorations, and more.
 - [[02 Packs/6. Lucent Adventures/index|Lucent Adventures]] - Improved world generation. Additional environment, structures, dimensions. Slows gameplay loop with a progression system, skill tree, RPG Classes.
 
-All of the aforementioned mod packs are also available as "collections" on [Modrinth](https://modrinth.com/user/lucent-mc/collections), containing only the mods unique to each pack.
+All of the aforementioned mod packs are also available as "collections" on [Modrinth](https://modrinth.com/user/lucent-adventures/collections), containing only the mods unique to each pack.
 
 ## Join us
 
-Follow development by following the github, starring the repositories, or joining us on [Discord](https://discord.gg/bePPwYJk2u).
-
-<!-- You might also want to try out the pack on our community server `lucent.mia.cx` (this address may change). -->
-
-<!-- $VERSION = "VERSION"; git flow release start $VERSION; git flow release finish $VERSION -m "v$VERSION"; git push --all -->
+Follow development by following the github, starring the repositories, or joining us on [Discord](https://discord.gg/3VKBJeCcZN).
