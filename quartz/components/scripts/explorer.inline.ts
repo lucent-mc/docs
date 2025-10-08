@@ -210,8 +210,6 @@ async function setupExplorer(currentSlug: FullSlug) {
     const folders = trie.getFolders();
     currentExplorerState = folders.map(([path, node]) => {
       const previousCollapsed = oldIndex.get(path);
-      console.log(path)
-      console.log(node)
       return {
         path,
         collapsed:
