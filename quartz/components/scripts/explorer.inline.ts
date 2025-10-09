@@ -121,6 +121,9 @@ function createFolderNode(
     a.className = "folder-title"
     a.textContent = node.displayName
     button.replaceWith(a)
+    if (currentSlug === node.slug) {
+      a.classList.add("active")
+    }
   } else {
     const span = titleContainer.querySelector(".folder-title") as HTMLElement
     span.textContent = node.displayName
