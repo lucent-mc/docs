@@ -140,12 +140,15 @@ export const defaultListPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         depth: 1,
-        enableRadial: false,
+        repelForce: 0.5,
+        centerForce: 0.7,
+        enableRadial: true,
       },
       globalGraph: {
-        repelForce: 1.0,
+        repelForce: 0.5,
+        centerForce: 0.7,
         linkDistance: 15,
-        enableRadial: false,
+        enableRadial: true,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
