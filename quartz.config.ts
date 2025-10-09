@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Lucent Docs",
-    pageTitleSuffix: " | Lucent Docs",
+    pageTitle: "Lucent Wiki",
+    pageTitleSuffix: " | Lucent Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
