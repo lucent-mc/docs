@@ -7,7 +7,7 @@ created: 2025-08-23T12:01:57+02:00
 modified: 2025-10-08T23:37:40+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
-collapsed: "false"
+collapsed: 'false'
 icon: streamline-pixel:weather-cresent-moon-stars
 tags: meta
 ---
@@ -36,7 +36,7 @@ Because Sinytra Connector, Forgified Fabric API and some other mods are stuck on
 
 ## Mod Packs
 
-- [[02 Packs/1. Lucent Optimizations/index|Lucent Optimizations]] - Improved performance & bug fixes without altering the gameplay.
+- [[02 Packs/1. Lucent Optimizations/index|Lucent Optimizations]] - Improved performance & bug fixes without altering gameplay.
 - [[02 Packs/2. Lucent Immersion/index|Lucent Immersion]] - Client-side tweaks, sounds and visuals. Vanilla gameplay.
 - [[02 Packs/3. Lucent Vanilla/index|Lucent Vanilla]] - Quality of Life improvements without changing the core. Vanilla-compatible.
 - [[02 Packs/4. Lucent Improvements/index|Lucent Improvements]] - Quality of Life improvements that change the game (literally). True to Vanilla.

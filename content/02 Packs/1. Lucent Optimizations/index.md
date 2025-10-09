@@ -2,10 +2,11 @@
 title: Lucent Optimizations
 authors:
   - mia-riezebos
-description: The base of all Lucent packs, in charge of optimizing the game.
+description: Improved performance & bug fixes without altering gameplay.
+url: https://modrinth.com/project/lucent-optimizations
 type: pack
 created: 2025-08-23T11:54:27+02:00
-modified: 2025-10-09T00:38:29+02:00
+modified: 2025-10-09T13:06:38+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:interface-essential-flash
