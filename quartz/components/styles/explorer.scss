@@ -188,6 +188,10 @@ button.desktop-explorer {
     padding: 0.125rem 0.5rem;
     border-radius: 0.5rem;
 
+    transition:
+        color 0.3s ease,
+        opacity 0.3s ease;
+
     &::before {
       content: "";
       display: inline-block;
@@ -200,6 +204,11 @@ button.desktop-explorer {
       transition:
         background 0.3s ease,
         opacity 0.3s ease;
+    }
+
+    &:hover {
+      opacity: 1;
+      color: var(--tertiary);
     }
 
     &:hover::before,
@@ -225,7 +234,7 @@ button.desktop-explorer {
     display: inline-block;
   }
 
-  & div > a:hover {
+  & div > a:hover, & div > a.active {
     color: var(--tertiary);
   }
 
