@@ -50,9 +50,9 @@ function toggleFolder(evt: MouseEvent) {
   const folderContainer = (
     isFolderIcon
       ? // svg -> div.folder-container
-        target.parentElement
+      target.parentElement
       : // button.folder-button -> div -> div.folder-container
-        target.parentElement?.parentElement
+      target.parentElement?.parentElement
   ) as MaybeHTMLElement
   if (!folderContainer) return
   const childFolderContainer = folderContainer.nextElementSibling as MaybeHTMLElement
@@ -222,13 +222,26 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
-    for (const child of trie.children) {
+
+    // Build combined root nodes, including Home as a file node
+    let rootNodes = [...trie.children]
+    if (trie.data) {
+      const homeNode = new FileTrieNode(["index"], trie.data as any)
+      rootNodes.push(homeNode)
+    }
+
+    // Re-apply sort so Home adheres to the same ordering
+    if (opts.sortFn) {
+      rootNodes.sort(opts.sortFn)
+    }
+
+    for (const child of rootNodes) {
       const node = child.isFolder
         ? createFolderNode(currentSlug, child, opts)
         : createFileNode(currentSlug, child)
-
       fragment.appendChild(node)
     }
+    
     explorerUl.insertBefore(fragment, explorerUl.firstChild)
 
     // restore explorer scrollTop position if it exists
