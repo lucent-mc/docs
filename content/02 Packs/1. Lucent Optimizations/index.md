@@ -20,9 +20,11 @@ Lucent Optimizations is the base of all Lucent packs, in charge of optimizing th
 
 We leverage popular optimization mods with our own configs to set ourselves up for a performant experience.
 
-## List of Mods (abridged)
+## List of Content (abridged)
 
-Find a comprehensive list of mods included with Lucent Optimizations [[02 Packs/1. Lucent Optimizations/Content|Lucent Optimizations - Content]].
+Find a comprehensive list of content included with Lucent Optimizations on [[02 Packs/1. Lucent Optimizations/Content|Lucent Optimizations - Content]].
+
+### Mods
 
 - [[Dynamic FPS|Dynamic FPS]]
 - [[Entity Culling]]
