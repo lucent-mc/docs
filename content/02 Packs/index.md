@@ -7,7 +7,7 @@ type:
   - pack
   - page
 created: 2025-10-06T14:07:02+02:00
-modified: 2025-10-09T00:36:35+02:00
+modified: 2025-10-09T14:54:01+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 collapsed: 'false'

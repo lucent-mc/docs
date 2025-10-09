@@ -9,7 +9,6 @@ created: 2025-10-06T07:04:04+02:00
 modified: 2025-10-08T23:04:23+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
-collapsed: 'false'
 icon:
 ---
 
