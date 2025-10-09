@@ -1,7 +1,7 @@
 import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
-import path from 'path';
+import path from "path"
 
 type MaybeHTMLElement = HTMLElement | undefined
 
@@ -44,11 +44,11 @@ function toggleFolder(evt: MouseEvent) {
   if (!target) return
 
   // Check if target was svg icon or button
-  const isSvg = target.nodeName === "svg"
+  const isFolderIcon = target.classList.contains("folder-icon")
 
   // corresponding <ul> element relative to clicked button/folder
   const folderContainer = (
-    isSvg
+    isFolderIcon
       ? // svg -> div.folder-container
         target.parentElement
       : // button.folder-button -> div -> div.folder-container
@@ -105,7 +105,7 @@ function createFolderNode(
   const clone = template.content.cloneNode(true) as DocumentFragment
   const li = clone.querySelector("li") as HTMLLIElement
   const folderContainer = li.querySelector(".folder-container") as HTMLElement
-  const titleContainer = folderContainer.querySelector("div") as HTMLElement
+  const titleContainer = folderContainer.querySelector("div:not(.folder-icon)") as HTMLElement
   const folderOuter = li.querySelector(".folder-outer") as HTMLElement
   const ul = folderOuter.querySelector("ul") as HTMLUListElement
 
@@ -125,8 +125,6 @@ function createFolderNode(
     const span = titleContainer.querySelector(".folder-title") as HTMLElement
     span.textContent = node.displayName
   }
-
-  
 
   // if the saved state is collapsed or the default (per-folder) state is collapsed
   const isCollapsed =
@@ -207,13 +205,12 @@ async function setupExplorer(currentSlug: FullSlug) {
     //   }
     // })
 
-    const folders = trie.getFolders();
+    const folders = trie.getFolders()
     currentExplorerState = folders.map(([path, node]) => {
-      const previousCollapsed = oldIndex.get(path);
+      const previousCollapsed = oldIndex.get(path)
       return {
         path,
-        collapsed:
-          previousCollapsed ?? node.isCollapsed ?? opts.folderDefaultState === "collapsed"
+        collapsed: previousCollapsed ?? node.isCollapsed ?? opts.folderDefaultState === "collapsed",
       }
     })
 
