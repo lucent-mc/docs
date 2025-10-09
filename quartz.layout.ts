@@ -145,6 +145,7 @@ export const defaultListPageLayout: PageLayout = {
         enableRadial: true,
       },
       globalGraph: {
+        depth: -1,
         repelForce: 0.5,
         centerForce: 0.7,
         linkDistance: 15,
