@@ -5,12 +5,12 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-10T17:20:07+02:00
+modified: 2025-10-10T17:34:27+02:00
 license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:search-coding
-tags: 
+tags:
 ---
 
 This page contains a list of Mods that we want to look into and possibly add to one of the packs.
@@ -20,21 +20,23 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] AE2 (look at for create conflicts & balancing)
 - [ ] Antique Atlas
 - [ ] Antique Trains
+- [ ] [Concurrent Chunk Management Engine (NeoForge) - Minecraft Mod](https://modrinth.com/mod/c2me-neoforge)
 - [ ] Create
   - [ ] Create Addons
 - [ ] Serene Seasons
 - [ ] Supplementaries
-- [x] [Language Reload - Minecraft Mod](https://modrinth.com/mod/language-reload) [completion:: 2025-10-10]
 
 ### [[02 Packs/1. Lucent Optimizations/index|Lucent Optimizations]]
 
 - [ ] [LuckPerms](https://modrinth.com/plugin/luckperms)
 - [x] [[Configured Defaults]]
 - [x] [[Connector Extras]]
+- [x] [Enhanced Block Entities - Minecraft Mod](https://modrinth.com/mod/ebe) [completion:: 2025-10-10]
 - [x] [[Entity Culling]]
 - [x] [[FerriteCore]]
 - [x] [[Forgified Fabric API|Forgified Fabric API]]
 - [x] [Krypton - Minecraft Mod](https://modrinth.com/mod/krypton) [completion:: 2025-10-10]
+- [x] [Language Reload - Minecraft Mod](https://modrinth.com/mod/language-reload) [completion:: 2025-10-10]
 - [x] [[Lithium|Lithium]]
 - [x] [[Model Gap Fix|Model Gap Fix]] [completion:: 2025-10-10]
 - [x] [[More Culling|More Culling]] [completion:: 2025-10-10]
@@ -67,9 +69,9 @@ This page contains a list of Mods that we want to look into and possibly add to 
 
 - [-] [Blanket](https://modrinth.com/mod/blanket) [reason:: No Supported Version]
 - [-] [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) [reason:: No Supported Version]
+- [-] [Debugify - Minecraft Mod](https://modrinth.com/mod/debugify) [reason::Incompatible with current version of Sinytra Connector]
 - [-] [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) [reason:: No Supported Version]
 - [-] [RailOptimization](https://modrinth.com/mod/rail-optimization) [reason:: No Supported Version]
 - [-] [Wandrous](https://modrinth.com/mod/wandrous) [reason::Incompatible with some terra mods]
-- [-] [Debugify - Minecraft Mod](https://modrinth.com/mod/debugify) [reason::Incompatible with current version of Sinytra Connector]
 
 ## Other

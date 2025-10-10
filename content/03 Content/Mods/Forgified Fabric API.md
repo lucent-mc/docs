@@ -40,6 +40,7 @@ Forgified Fabric API runs without any user interaction.
 - [[Sinytra Connector]]
 - [[Krypton]]
 - [[Language Reload]]
+- [[Enhanced Block Entities]]
 
 ## License
 
