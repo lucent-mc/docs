@@ -5,12 +5,12 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-10T17:04:06+02:00
+modified: 2025-10-10T17:20:07+02:00
 license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:search-coding
-tags:
+tags: 
 ---
 
 This page contains a list of Mods that we want to look into and possibly add to one of the packs.
@@ -22,8 +22,6 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] Antique Trains
 - [ ] Create
   - [ ] Create Addons
-- [ ] [Debugify - Minecraft Mod](https://modrinth.com/mod/debugify)
-	- [ ] [YetAnotherConfigLib (YACL) - Minecraft Mod](https://modrinth.com/mod/yacl)
 - [ ] Serene Seasons
 - [ ] Supplementaries
 - [x] [Language Reload - Minecraft Mod](https://modrinth.com/mod/language-reload) [completion:: 2025-10-10]
@@ -72,5 +70,6 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [-] [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) [reason:: No Supported Version]
 - [-] [RailOptimization](https://modrinth.com/mod/rail-optimization) [reason:: No Supported Version]
 - [-] [Wandrous](https://modrinth.com/mod/wandrous) [reason::Incompatible with some terra mods]
+- [-] [Debugify - Minecraft Mod](https://modrinth.com/mod/debugify) [reason::Incompatible with current version of Sinytra Connector]
 
 ## Other
