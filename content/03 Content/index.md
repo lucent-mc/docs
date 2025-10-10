@@ -2,7 +2,7 @@
 title: Content
 authors:
   - mia-riezebos
-description: A list of all content contained in all mods
+description: A list of all content contained in all modpacks
 type: page
 created: 2025-10-08T15:42:17+02:00
 modified: 2025-10-08T15:42:25+02:00

@@ -38,7 +38,15 @@ Dynamic FPS runs without any user interaction.
 
 ## Config
 
-Dynamic FPS's defaults are sufficient so we provide no config overrides.
+```json title="dynamic_fps.json"
+{
+  "states": {
+    "unplugged": {
+      "enable_vsync": false
+    }
+  }
+}
+```
 
 ## Relations
 

@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Content",
+      "folder": "03 Content/Mods",
       "template": "99 Meta/Templates/Mod.md"
     }
   ],
