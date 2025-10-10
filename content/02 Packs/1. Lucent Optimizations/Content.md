@@ -18,15 +18,20 @@ Below you will find a list of all Content included with [[02 Packs/1. Lucent Opt
 
 ## Mods
 
+- [[Cloth Config API|Cloth Config API]]
 - [[Configured Defaults]]
 - [[Connector Extras]][^1]
+- [[Dynamic FPS|Dynamic FPS]]
 - [[Entity Culling]]
 - [[FerriteCore]]
 - [[Forgified Fabric API]][^1]
 - [[ImmediatelyFast]]
 - [[Lithium]]
+- [[ModernFix|ModernFix]]
+- [[Reese's Sodium Options|Reese's Sodium Options]]
 - [[Sinytra Connector]][^1]
 - [[Sodium]]
+- [[Sodium Extra|Sodium Extra]]
 - [[spark]]
 
 ## Resource Packs
