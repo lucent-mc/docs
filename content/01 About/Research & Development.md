@@ -23,6 +23,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] Create
   - [ ] Create Addons
 - [ ] [Debugify - Minecraft Mod](https://modrinth.com/mod/debugify)
+	- [ ] [YetAnotherConfigLib (YACL) - Minecraft Mod](https://modrinth.com/mod/yacl)
 - [ ] Serene Seasons
 - [ ] Supplementaries
 - [x] [Language Reload - Minecraft Mod](https://modrinth.com/mod/language-reload) [completion:: 2025-10-10]
