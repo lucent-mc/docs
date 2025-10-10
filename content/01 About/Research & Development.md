@@ -10,7 +10,7 @@ license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:search-coding
-tags: 
+tags:
 ---
 
 This page contains a list of Mods that we want to look into and possibly add to one of the packs.
@@ -20,6 +20,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] AE2 (look at for create conflicts & balancing)
 - [ ] Antique Atlas
 - [ ] Antique Trains
+- [ ] [Noisium - Minecraft Mod](https://modrinth.com/mod/noisium) (server MSPT rose considerably, keep note of this mod for bigger modpacks)
 - [ ] Create
   - [ ] Create Addons
 - [ ] Serene Seasons
