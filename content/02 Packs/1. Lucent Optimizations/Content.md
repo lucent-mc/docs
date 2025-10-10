@@ -19,6 +19,7 @@ Below you will find a list of all Content included with [[02 Packs/1. Lucent Opt
 ## Mods
 
 - [[Cloth Config API|Cloth Config API]]
+- [[Concurrent Chunk Management Engine|Concurrent Chunk Management Engine]]
 - [[Configured Defaults]]
 - [[Connector Extras]][^1]
 - [[Dynamic FPS|Dynamic FPS]]

@@ -5,12 +5,12 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-10T17:34:27+02:00
+modified: 2025-10-10T18:03:44+02:00
 license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:search-coding
-tags:
+tags: 
 ---
 
 This page contains a list of Mods that we want to look into and possibly add to one of the packs.
@@ -20,7 +20,6 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] AE2 (look at for create conflicts & balancing)
 - [ ] Antique Atlas
 - [ ] Antique Trains
-- [ ] [Concurrent Chunk Management Engine (NeoForge) - Minecraft Mod](https://modrinth.com/mod/c2me-neoforge)
 - [ ] Create
   - [ ] Create Addons
 - [ ] Serene Seasons
@@ -29,6 +28,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 ### [[02 Packs/1. Lucent Optimizations/index|Lucent Optimizations]]
 
 - [ ] [LuckPerms](https://modrinth.com/plugin/luckperms)
+- [x] [Concurrent Chunk Management Engine (NeoForge) - Minecraft Mod](https://modrinth.com/mod/c2me-neoforge) [completion:: 2025-10-10]
 - [x] [[Configured Defaults]]
 - [x] [[Connector Extras]]
 - [x] [Enhanced Block Entities - Minecraft Mod](https://modrinth.com/mod/ebe) [completion:: 2025-10-10]
