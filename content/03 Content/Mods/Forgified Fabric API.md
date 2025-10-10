@@ -38,6 +38,8 @@ Forgified Fabric API runs without any user interaction.
 ### Dependents
 
 - [[Sinytra Connector]]
+- [[Krypton]]
+- [[Language Reload]]
 
 ## License
 

@@ -44,6 +44,8 @@ How to use Sinytra Connector for the relevant mod pack.
 ### Dependents
 
 - [[Connector Extras]]
+- [[Krypton]]
+- [[Language Reload]]
 
 ## License
 

@@ -2,7 +2,7 @@
 title: Configured Defaults
 authors: Fuzs
 description: Allows for providing defaults for files absent in .minecraft like configs. A quintessential modpack utility.
-url: https://modrinth.com/mod/configured-defaults/version/v21.8.0-1.21.8-NeoForge
+url: https://modrinth.com/mod/configured-defaults
 type: mod
 created: 2025-10-04T03:17:35+02:00
 modified: 2025-10-06T11:20:48+02:00

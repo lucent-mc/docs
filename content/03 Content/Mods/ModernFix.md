@@ -1,18 +1,21 @@
 ---
 title: ModernFix
-authors:
+authors: embeddedt
 description: All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!
 url: https://modrinth.com/mod/modernfix
 type: mod
 created: 2025-10-07T23:09:35+02:00
-modified: 2025-10-07T23:12:09+02:00
+modified: 2025-10-10T16:55:54+02:00
 license: LGPL-3.0-only
 license_url: https://modrinth.com/mod/modernfix
 supported_versions:
-  - '1.21.4'
-  - '1.21.1'
+  - 1.21.4
+  - 1.21.1
   - '1.21'
-author: embeddedt
+tags:
+  - mod
+  - neoforge
+  - optimizations
 ---
 
 _All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!_

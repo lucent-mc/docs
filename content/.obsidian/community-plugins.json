@@ -20,5 +20,6 @@
   "shiki-highlighter",
   "prettier",
   "obsidian-tasks-plugin",
-  "obsidian-front-matter-title-plugin"
+  "obsidian-front-matter-title-plugin",
+  "obsidian-auto-link-title"
 ]

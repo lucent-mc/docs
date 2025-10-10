@@ -2,7 +2,7 @@
 title: Connector Extras
 authors: Sinytra
 description: Integrating Connector with third-party APIs
-url: https://modrinth.com/mod/connector-extras/version/1.12.1+1.21.1
+url: https://modrinth.com/mod/connector-extras
 type: mod
 created: 2025-10-03T08:14:16+02:00
 modified: 2025-10-06T11:20:30+02:00

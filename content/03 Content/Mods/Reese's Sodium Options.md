@@ -1,27 +1,30 @@
 ---
 title: "Reese's Sodium Options"
-authors:
+authors: FlashyReese
 description: Alternative Options Menu for Sodium
 url: https://modrinth.com/mod/reeses-sodium-options
 type: mod
 created: 2025-10-07T22:40:02+02:00
-modified: 2025-10-07T22:40:59+02:00
+modified: 2025-10-10T16:55:59+02:00
 license: MIT
 license_url: https://modrinth.com/mod/reeses-sodium-options
 supported_versions:
-  - '1.21.9'
-  - '1.21.8'
-  - '1.21.7'
-  - '1.21.6'
-  - '1.21.5'
-  - '1.21.4'
-  - '1.21.3'
-  - '1.21.2'
-  - '1.21.1'
+  - 1.21.9
+  - 1.21.8
+  - 1.21.7
+  - 1.21.6
+  - 1.21.5
+  - 1.21.4
+  - 1.21.3
+  - 1.21.2
+  - 1.21.1
   - '1.21'
 depends_on:
   - '[[Sodium]]'
-author: FlashyReese
+tags:
+  - mod
+  - neoforge
+  - optimizations
 ---
 
 _Alternative Options Menu for Sodium_

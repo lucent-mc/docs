@@ -132,7 +132,7 @@ let mod_use_case = await tp.system.prompt('How is this mod used in the mod pack?
 // Ask the user for the mod's dependencies  
 let mod_dependencies = await tp.system.multi_suggester(  
  (item) => item.basename,  
- tp.app.vault.getMarkdownFiles().filter((file) => file.parent?.path === 'Content'),  
+ tp.app.vault.getMarkdownFiles().filter((file) => file.parent?.path.contains('03 Content/Mods')),  
  false,  
  'Does this mod depend on any other mods?',  
 );
@@ -145,7 +145,7 @@ if (mod_dependencies.length > 0) {
 -%>
 ---
 title: <% mod_name %>  
-author: <% mod_author %>  
+authors: <% mod_author %>  
 description: <% mod_summary %>  
 url: <% mod_url %>  
 type: mod  
