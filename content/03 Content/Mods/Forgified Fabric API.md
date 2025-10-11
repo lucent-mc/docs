@@ -41,6 +41,7 @@ Forgified Fabric API runs without any user interaction.
 - [[Krypton]]
 - [[Language Reload]]
 - [[Enhanced Block Entities]]
+- [[FPS - Display]]
 
 ## License
 

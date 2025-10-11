@@ -47,6 +47,7 @@ How to use Sinytra Connector for the relevant mod pack.
 - [[Krypton]]
 - [[Language Reload]]
 - [[Enhanced Block Entities]]
+- [[FPS - Display]]
 
 ## License
 

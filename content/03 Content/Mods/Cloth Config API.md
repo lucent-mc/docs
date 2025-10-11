@@ -50,6 +50,7 @@ Cloth Config API's defaults are sufficient so we provide no config overrides.
 - [[Cubes Without Borders]]
 - [[Dynamic FPS]] (Optional)
 - [[More Culling|More Culling]]
+- [[FPS - Display]]
 
 ## License
 
