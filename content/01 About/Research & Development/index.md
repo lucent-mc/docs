@@ -5,12 +5,12 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-11T03:07:32+02:00
+modified: 2025-10-11T04:22:12+02:00
 license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:search-coding
-tags:
+tags: 
 ---
 
 This page contains a list of Mods that we want to look into and possibly add to one of the packs.
@@ -20,7 +20,6 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] AE2 (look at for create conflicts & balancing)
 - [ ] Antique Atlas
 - [ ] Antique Trains
-- [ ] [Noisium - Minecraft Mod](https://modrinth.com/mod/noisium) (server MSPT rose considerably, keep note of this mod for bigger modpacks)
 - [ ] Create
   - [ ] Create Addons
 - [ ] Serene Seasons
@@ -72,6 +71,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [-] [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) [reason:: No Supported Version]
 - [-] [Debugify - Minecraft Mod](https://modrinth.com/mod/debugify) [reason::Incompatible with current version of Sinytra Connector]
 - [-] [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) [reason:: No Supported Version]
+- [-] [Noisium - Minecraft Mod](https://modrinth.com/mod/noisium) (server MSPT rose considerably, keep note of this mod for bigger modpacks)
 - [-] [RailOptimization](https://modrinth.com/mod/rail-optimization) [reason:: No Supported Version]
 - [-] [Wandrous](https://modrinth.com/mod/wandrous) [reason::Incompatible with some terra mods]
 
