@@ -17,6 +17,7 @@ Below you will find a list of all Content included with [[02 Packs/2. Lucent Imm
 
 ## Mods
 
+- Continuity
 - Distant Horizons
 - Entity Model Features (EMF)
 - Entity Texture Features (ETF)
@@ -30,7 +31,7 @@ Below you will find a list of all Content included with [[02 Packs/2. Lucent Imm
 
 ## Shader packs
 
-- Medium performance impact
-	- Bliss
 - High performance impact
-	- Complimentary + Euphoria patches
+  - Complimentary + Euphoria patches
+- Medium performance impact
+  - Bliss
