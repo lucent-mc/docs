@@ -1,7 +1,7 @@
 ---
 title: Noisium
 authors: Steveplays
-description: Optimises worldgen performance for a better gameplay experience.
+description: Why we chose not to include Noisium.
 url: https://modrinth.com/mod/noisium
 type: mod
 created: 2025-10-11T02:59:26+02:00
@@ -15,7 +15,7 @@ supported_versions:
   - 1.21.3
   - 1.21.2
   - 1.21.1
-  - '1.21'
+  - "1.21"
 ---
 
 _Optimises worldgen performance for a better gameplay experience._
