@@ -5,7 +5,7 @@ authors:
 description: A list of all content contained in Lucent Optimizations
 type: pack
 created: 2025-08-23T11:54:27+02:00
-modified: 2025-10-09T00:40:27+02:00
+modified: 2025-10-11T02:59:06+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:interface-essential-flash
@@ -47,8 +47,6 @@ Lucent Optimizations does not include any Resource Packs.
 
 Lucent Optimizations does not include any Shader Packs.
 
-[^1]: This mod is a library mod, which means that it doesn't add content itself but is used as a dependency or API by other mods.
-
 ## Other Considerations
 
 ### Noisium
@@ -56,3 +54,5 @@ Lucent Optimizations does not include any Shader Packs.
 We deliberately chose not to include Noisium. In benchmarks with multiple terrain generation mods, Noisium came out slightly worse than only running C2ME, and it consistently increases idle MSPT.
 
 ![C2ME + Noisium Benchmark - YouTube](https://youtu.be/51mgNQivwVY)
+
+[^1]: This mod is a library mod, which means that it doesn't add content itself but is used as a dependency or API by other mods.
