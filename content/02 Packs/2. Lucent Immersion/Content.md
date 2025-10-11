@@ -31,7 +31,7 @@ Below you will find a list of all Content included with [[02 Packs/2. Lucent Imm
 
 ## Shader packs
 
-- High performance impact
-  - Complimentary + Euphoria patches
-- Medium performance impact
-  - Bliss
+- Complimentary + Euphoria patches
+  High performance impact
+- Bliss
+  Medium performance impact
