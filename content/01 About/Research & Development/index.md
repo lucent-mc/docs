@@ -34,6 +34,7 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [Sodium Leaf Culling - Minecraft Mod](https://modrinth.com/mod/sodiumleafculling)
 - [Sodium Options API - Minecraft Mod](https://modrinth.com/mod/sodium-options-api)
 - [Sodium Options Mod Compat - Minecraft Mod](https://modrinth.com/mod/sodium-options-mod-compat)
+- [Very Many Players (Fabric) - Minecraft Mod](https://modrinth.com/mod/vmp-fabric)
 
 ## Mods
 
