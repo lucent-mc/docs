@@ -49,7 +49,7 @@ Lucent Optimizations does not include any Shader Packs.
 
 ## Other Considerations
 
-### Noisium
+### [[Noisium|Noisium]]
 
 We deliberately chose not to include Noisium. In benchmarks with multiple terrain generation mods, Noisium came out slightly worse than only running C2ME, and it consistently increases idle MSPT.
 
