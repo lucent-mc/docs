@@ -5,7 +5,7 @@ authors:
 description: A list of all mods in any of the modpacks
 type: page
 created: 2025-10-10T15:48:42+02:00
-modified: 2025-10-10T16:57:46+02:00
+modified: 2025-10-11T03:54:11+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 tags: 

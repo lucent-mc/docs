@@ -72,6 +72,7 @@ Sodium's defaults are sufficient so we provide no config overrides.
 
 - [[Sodium Extra]]
 - [[Reese's Sodium Options]]
+- [[Translations for Sodium]]
 
 ## License
 

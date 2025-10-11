@@ -13,10 +13,10 @@ supported_versions:
   - 1.21.3
   - 1.21.2
   - 1.21.1
-  - "1.21"
+  - '1.21'
 depends_on:
-  - "[[Forgified Fabric API]]"
-  - "[[Sinytra Connector]]"
+  - '[[Forgified Fabric API]]'
+  - '[[Sinytra Connector]]'
 ---
 
 _Reduce block entity FPS lag with almost no compromises, and improve their visuals_
@@ -41,8 +41,8 @@ Enhanced Block Entities's defaults are sufficient so we provide no config overri
 
 ## Dependencies
 
-  - [[Sinytra Connector]]
-  - [[Forgified Fabric API]]
+- [[Sinytra Connector]]
+- [[Forgified Fabric API]]
 
 ## License
 

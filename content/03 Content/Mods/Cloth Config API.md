@@ -47,6 +47,7 @@ Cloth Config API's defaults are sufficient so we provide no config overrides.
 
 ### Dependents
 
+- [[Cubes Without Borders]]
 - [[Dynamic FPS]] (Optional)
 - [[More Culling|More Culling]]
 
