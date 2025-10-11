@@ -25,6 +25,14 @@ This page contains a list of Mods that we want to look into and possibly add to 
 	- [Almanac - Minecraft Mod](https://modrinth.com/mod/almanac)
 - [Packet Fixer - Minecraft Mod](https://modrinth.com/mod/packet-fixer)
 - [Remove Reloading Screen - Minecraft Mod](https://modrinth.com/mod/rrls)
+- [Redirected - Minecraft Mod](https://modrinth.com/mod/redirected)
+- [Sodium Leaf Culling - Minecraft Mod](https://modrinth.com/mod/sodiumleafculling)
+- [Sodium Options Mod Compat - Minecraft Mod](https://modrinth.com/mod/sodium-options-mod-compat)
+- [Sodium Extras - Minecraft Mod](https://modrinth.com/mod/sodium-extras)
+- [Sodium Options API - Minecraft Mod](https://modrinth.com/mod/sodium-options-api)
+- [Particle Core - Minecraft Mod](https://modrinth.com/mod/particle-core)
+- [Redirected - Minecraft Mod](https://modrinth.com/mod/redirected)
+- [Pack Analytics - Minecraft Mod](https://modrinth.com/mod/pack-analytics)
 
 ## Mods
 
