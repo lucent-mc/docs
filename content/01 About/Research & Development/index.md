@@ -19,20 +19,21 @@ This page contains a list of Mods that we want to look into and possibly add to 
 
 - [AsyncParticles - Minecraft Mod](https://modrinth.com/mod/asyncparticles)
 - [BadOptimizations - Minecraft Mod](https://modrinth.com/mod/badoptimizations)
+- [Does It Tick? - Minecraft Mod](https://modrinth.com/mod/does-it-tick)
 - [Fast IP Ping - Minecraft Mod](https://modrinth.com/mod/fast-ip-ping)
 - [FastQuit - Minecraft Mod](https://modrinth.com/mod/fastquit)
+- [Foolproof - Minecraft Mod](https://modrinth.com/mod/foolproof)
 - [Let Me Despawn - Minecraft Plugin](https://modrinth.com/plugin/lmd)
 	- [Almanac - Minecraft Mod](https://modrinth.com/mod/almanac)
 - [Packet Fixer - Minecraft Mod](https://modrinth.com/mod/packet-fixer)
-- [Remove Reloading Screen - Minecraft Mod](https://modrinth.com/mod/rrls)
-- [Redirected - Minecraft Mod](https://modrinth.com/mod/redirected)
-- [Sodium Leaf Culling - Minecraft Mod](https://modrinth.com/mod/sodiumleafculling)
-- [Sodium Options Mod Compat - Minecraft Mod](https://modrinth.com/mod/sodium-options-mod-compat)
-- [Sodium Extras - Minecraft Mod](https://modrinth.com/mod/sodium-extras)
-- [Sodium Options API - Minecraft Mod](https://modrinth.com/mod/sodium-options-api)
 - [Particle Core - Minecraft Mod](https://modrinth.com/mod/particle-core)
 - [Redirected - Minecraft Mod](https://modrinth.com/mod/redirected)
-- [Pack Analytics - Minecraft Mod](https://modrinth.com/mod/pack-analytics)
+- [Redirected - Minecraft Mod](https://modrinth.com/mod/redirected)
+- [Remove Reloading Screen - Minecraft Mod](https://modrinth.com/mod/rrls)
+- [Sodium Extras - Minecraft Mod](https://modrinth.com/mod/sodium-extras)
+- [Sodium Leaf Culling - Minecraft Mod](https://modrinth.com/mod/sodiumleafculling)
+- [Sodium Options API - Minecraft Mod](https://modrinth.com/mod/sodium-options-api)
+- [Sodium Options Mod Compat - Minecraft Mod](https://modrinth.com/mod/sodium-options-mod-compat)
 
 ## Mods
 
