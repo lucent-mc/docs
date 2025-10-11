@@ -3,7 +3,7 @@ title: Translations for Sodium
 authors: robotkoer
 description: Unofficial translations for the Sodium Minecraft mod
 url: https://modrinth.com/resourcepack/translations-for-sodium
-type: mod
+type: resourcepack
 created: 2025-10-11T03:58:00+02:00
 modified: 2025-10-11T03:59:00+02:00
 license: CC0 1.0

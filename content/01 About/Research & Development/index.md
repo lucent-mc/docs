@@ -5,7 +5,7 @@ authors:
 description: a list of Mods that we want to look into and possibly add to one of the packs.
 type: page
 created: 2025-10-04T04:33:20+02:00
-modified: 2025-10-11T04:22:12+02:00
+modified: 2025-10-11T04:33:56+02:00
 license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
@@ -22,33 +22,17 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [ ] Antique Trains
 - [ ] Create
   - [ ] Create Addons
-- [ ] Serene Seasons
 - [ ] Supplementaries
+
+## Packs
 
 ### [[02 Packs/1. Lucent Optimizations/index|Lucent Optimizations]]
 
 - [ ] [LuckPerms](https://modrinth.com/plugin/luckperms)
-- [x] [Concurrent Chunk Management Engine (NeoForge) - Minecraft Mod](https://modrinth.com/mod/c2me-neoforge) [completion:: 2025-10-10]
-- [x] [[Configured Defaults]]
-- [x] [[Connector Extras]]
-- [x] [Enhanced Block Entities - Minecraft Mod](https://modrinth.com/mod/ebe) [completion:: 2025-10-10]
-- [x] [[Entity Culling]]
-- [x] [[FerriteCore]]
-- [x] [[Forgified Fabric API|Forgified Fabric API]]
-- [x] [Krypton - Minecraft Mod](https://modrinth.com/mod/krypton) [completion:: 2025-10-10]
-- [x] [Language Reload - Minecraft Mod](https://modrinth.com/mod/language-reload) [completion:: 2025-10-10]
-- [x] [[Lithium|Lithium]]
-- [x] [[Model Gap Fix|Model Gap Fix]] [completion:: 2025-10-10]
-- [x] [[More Culling|More Culling]] [completion:: 2025-10-10]
-- [x] [[Reese's Sodium Options|Reese's Sodium Options]] [completion:: 2025-10-10]
-- [x] [[Sinytra Connector]]
-- [x] [[Sodium]]
-- [x] [[Sodium Extra|Sodium Extra]] [completion:: 2025-10-10]
 
 ### [[02 Packs/2. Lucent Immersion/index|Lucent Immersion]]
 
 - [ ] [Iris](https://modrinth.com/mod/iris)
-- [ ] [Letterboxing](https://modrinth.com/mod/letterboxing)
 
 ### [[02 Packs/3. Lucent Vanilla/index|Lucent Vanilla]]
 
@@ -63,7 +47,26 @@ This page contains a list of Mods that we want to look into and possibly add to 
 
 ### [[02 Packs/6. Lucent Adventures/index|Lucent Adventures]]
 
+- [ ] Biomes O' Plenty
+- [ ] Oh The Biomes We've Gone
+- [ ] Serene Seasons
+- [ ] Tough as Nails
 - [ ] [Via Romana](https://modrinth.com/mod/via-romana)
+
+## Collections
+
+Mods that don't fully belong in a pack but can be considered for download for specific smaller groups of players like YouTubers.
+
+### Lucent Cinematics
+
+- [ ] [Flashback - Minecraft Mod](https://modrinth.com/mod/flashback)
+- [ ] [Letterboxing - Minecraft Mod](https://modrinth.com/mod/letterboxing)
+
+### Lucent Architecture
+
+- [ ] [Axiom - Minecraft Mod](https://modrinth.com/mod/axiom)
+- [ ] [Litematica - Minecraft Mod](https://modrinth.com/mod/litematica)
+- [ ] [WorldEdit - Minecraft Plugin](https://modrinth.com/plugin/worldedit)
 
 ## Not Added
 
@@ -74,5 +77,6 @@ This page contains a list of Mods that we want to look into and possibly add to 
 - [-] [Noisium - Minecraft Mod](https://modrinth.com/mod/noisium) (server MSPT rose considerably, keep note of this mod for bigger modpacks)
 - [-] [RailOptimization](https://modrinth.com/mod/rail-optimization) [reason:: No Supported Version]
 - [-] [Wandrous](https://modrinth.com/mod/wandrous) [reason::Incompatible with some terra mods]
+- [-] [WorldEdit CUI (Forge) - Minecraft Mod](https://modrinth.com/mod/worldeditcui-forge) [reason::Incompatible with current version of Sinytra Connector]
 
 ## Other

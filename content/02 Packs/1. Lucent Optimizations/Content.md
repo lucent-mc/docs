@@ -22,7 +22,9 @@ Below you will find a list of all Content included with [[02 Packs/1. Lucent Opt
 - [[Concurrent Chunk Management Engine|Concurrent Chunk Management Engine]]
 - [[Configured Defaults|Configured Defaults]]
 - [[Connector Extras|Connector Extras]][^1]
+- [[Cubes Without Borders|Cubes Without Borders]]
 - [[Dynamic FPS|Dynamic FPS]]
+- [[Enhanced Block Entities|Enhanced Block Entities]]
 - [[Entity Culling|Entity Culling]]
 - [[FerriteCore|FerriteCore]]
 - [[Forgified Fabric API|Forgified Fabric API]][^1]
@@ -30,6 +32,7 @@ Below you will find a list of all Content included with [[02 Packs/1. Lucent Opt
 - [[Krypton|Krypton]]
 - [[Language Reload|Language Reload]]
 - [[Lithium]]
+- [[MixinTrace Reforged|MixinTrace Reforged]]
 - [[Model Gap Fix|Model Gap Fix]]
 - [[ModernFix|ModernFix]]
 - [[More Culling|More Culling]]
@@ -41,7 +44,7 @@ Below you will find a list of all Content included with [[02 Packs/1. Lucent Opt
 
 ## Resource Packs
 
-Lucent Optimizations does not include any Resource Packs.
+- [[Translations for Sodium|Translations for Sodium]]
 
 ## Shader Packs
 
