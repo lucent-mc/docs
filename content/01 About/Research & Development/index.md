@@ -10,7 +10,7 @@ license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:search-coding
-tags: 
+tags:
 ---
 
 This page contains a list of Mods that we want to look into and possibly add to one of the packs.
@@ -19,12 +19,13 @@ This page contains a list of Mods that we want to look into and possibly add to 
 
 - [AsyncParticles - Minecraft Mod](https://modrinth.com/mod/asyncparticles)
 - [BadOptimizations - Minecraft Mod](https://modrinth.com/mod/badoptimizations)
+- [Chunky - Minecraft Plugin](https://modrinth.com/plugin/chunky)
 - [Does It Tick? - Minecraft Mod](https://modrinth.com/mod/does-it-tick)
 - [Fast IP Ping - Minecraft Mod](https://modrinth.com/mod/fast-ip-ping)
 - [FastQuit - Minecraft Mod](https://modrinth.com/mod/fastquit)
 - [Foolproof - Minecraft Mod](https://modrinth.com/mod/foolproof)
 - [Let Me Despawn - Minecraft Plugin](https://modrinth.com/plugin/lmd)
-	- [Almanac - Minecraft Mod](https://modrinth.com/mod/almanac)
+  - [Almanac - Minecraft Mod](https://modrinth.com/mod/almanac)
 - [Packet Fixer - Minecraft Mod](https://modrinth.com/mod/packet-fixer)
 - [Particle Core - Minecraft Mod](https://modrinth.com/mod/particle-core)
 - [Redirected - Minecraft Mod](https://modrinth.com/mod/redirected)
