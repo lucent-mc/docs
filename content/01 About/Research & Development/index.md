@@ -10,10 +10,14 @@ license:
   - CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 icon: streamline-pixel:search-coding
-tags: 
+tags:
 ---
 
 This page contains a list of Mods that we want to look into and possibly add to one of the packs.
+
+## Actively Testing
+
+- [BadOptimizations - Minecraft Mod](https://modrinth.com/mod/badoptimizations)
 
 ## Mods
 
