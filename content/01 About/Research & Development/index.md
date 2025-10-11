@@ -17,13 +17,14 @@ This page contains a list of Mods that we want to look into and possibly add to 
 
 ## Actively Testing
 
+- [AsyncParticles - Minecraft Mod](https://modrinth.com/mod/asyncparticles)
 - [BadOptimizations - Minecraft Mod](https://modrinth.com/mod/badoptimizations)
+- [Fast IP Ping - Minecraft Mod](https://modrinth.com/mod/fast-ip-ping)
 - [FastQuit - Minecraft Mod](https://modrinth.com/mod/fastquit)
-- [Remove Reloading Screen - Minecraft Mod](https://modrinth.com/mod/rrls)
 - [Let Me Despawn - Minecraft Plugin](https://modrinth.com/plugin/lmd)
 	- [Almanac - Minecraft Mod](https://modrinth.com/mod/almanac)
-- [Fast IP Ping - Minecraft Mod](https://modrinth.com/mod/fast-ip-ping)
 - [Packet Fixer - Minecraft Mod](https://modrinth.com/mod/packet-fixer)
+- [Remove Reloading Screen - Minecraft Mod](https://modrinth.com/mod/rrls)
 
 ## Mods
 
