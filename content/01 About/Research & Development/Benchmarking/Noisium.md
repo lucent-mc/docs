@@ -15,7 +15,7 @@ supported_versions:
   - 1.21.3
   - 1.21.2
   - 1.21.1
-  - "1.21"
+  - '1.21'
 ---
 
 _Optimises worldgen performance for a better gameplay experience._
