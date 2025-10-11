@@ -48,3 +48,11 @@ Lucent Optimizations does not include any Resource Packs.
 Lucent Optimizations does not include any Shader Packs.
 
 [^1]: This mod is a library mod, which means that it doesn't add content itself but is used as a dependency or API by other mods.
+
+## Other Considerations
+
+### Noisium
+
+We deliberately chose not to include Noisium. In benchmarks with multiple terrain generation mods, Noisium came out slightly worse than only running C2ME, and it consistently increases idle MSPT.
+
+![C2ME + Noisium Benchmark - YouTube](https://youtu.be/51mgNQivwVY)
