@@ -22,5 +22,7 @@
   "obsidian-tasks-plugin",
   "obsidian-front-matter-title-plugin",
   "obsidian-auto-link-title",
-  "frontmatter-markdown-links"
+  "frontmatter-markdown-links",
+  "sample-plugin",
+  "structured-frontmatter"
 ]

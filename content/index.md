@@ -1,10 +1,11 @@
 ---
 title: Home
-authors: mia-riezebos
+authors:
+  - 'mia-riezebos'
 description:
 type: page
 created: 2025-08-23T12:01:57+02:00
-modified: 2025-10-08T23:37:40+02:00
+modified: 2025-10-12T21:51:18+02:00
 license: CC BY-SA 4.0
 license_url: https://github.com/lucent-mc/docs/blob/dev/content/LICENSE
 collapsed: 'false'

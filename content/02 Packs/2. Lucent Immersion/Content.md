@@ -25,7 +25,7 @@ Below you will find a list of all Content included with [[02 Packs/2. Lucent Imm
 - Entity Model Features (EMF)
 - Entity Texture Features (ETF)
 - FancyMenu
-- Iris
+- Irist-5
 - Subtle Effects
 
 ## Resource packs
