@@ -1,0 +1,3 @@
+[submodule "content/.obsidian/plugins/obsidian-plugin-strucutured-frontmatter"]
+	path = content/.obsidian/plugins/obsidian-plugin-strucutured-frontmatter
+	url = git@github.com:mia-cx/obsidian-plugin-strucutured-frontmatter.git
