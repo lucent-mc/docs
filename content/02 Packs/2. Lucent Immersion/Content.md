@@ -1,6 +1,9 @@
 ---
 title: Lucent Immersion - Content
-authors: mia-riezebos
+authors:
+  - name: 'Mia'
+    username: 'mia-riezebos'
+    url: 'https://github.com/mia-riezebos'
 description: A list of all content contained in Lucent Immersion
 type: pack
 created: 2025-10-09T00:32:04+02:00

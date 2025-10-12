@@ -21,5 +21,6 @@
   "prettier",
   "obsidian-tasks-plugin",
   "obsidian-front-matter-title-plugin",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "frontmatter-markdown-links"
 ]
